@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Material List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E8F5E9; /* Light Green */
+            margin: 0;
+            padding: 0;
+        }
+        h2 {
+            color: #2E7D32; /* Dark Green */
+            text-align: center;
+            margin-top: 30px;
+        }
+        table {
+            width: 90%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            margin-top: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 15px;
+            text-align: left;
+            transition: background-color 0.3s ease;
+        }
+        tr:hover {
+            background-color: #F1F8E9; /* Very Light Green */
+        }
+        th {
+            background-color: #388E3C; /* Medium Green */
+            color: #fff;
+            font-weight: bold;
+        }
+        td {
+            background-color: #C8E6C9; /* Light Green */
+        }
+        button {
+            background-color: #00796B; /* Teal */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #004D40; /* Dark Teal */
+        }
+        a {
+            text-decoration: none;
+            color: #00796B; /* Teal */
+        }
+        a:hover {
+            color: #004D40; /* Dark Teal */
+        }
+    </style>
+</head>
+<body>
+    <h2>Course Material</h2>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Document</th>
+            <th>Batch</th>
+            <th>Course</th>
+            <th>Actions</th>
+        </tr>
+        {% for material in materials %}
+        <tr>
+            <td>{{ material.id }}</td>
+            <td>{{ material.title }}</td>
+            <td><a href="{{material.file.url}}" target="_blank">{{material.file.name}}</a></td>
+            <td>{{ material.batch }}</td>
+            <td>{{ material.course }}</td>
+            <td>
+                <a href="{% url 'teacherapp:update_course_material' material.id %}"><button>Update</button></a>
+                <a href="{% url 'teacherapp:delete_course_material' material.id %}"><button>Delete</button></a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+
+

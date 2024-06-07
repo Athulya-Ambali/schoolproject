@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4; /* Light gray background */
+            color: #333; /* Dark gray text */
+        }
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff; /* White background */
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .sidebar {
+            flex: 1;
+            padding-right: 20px;
+            border-right: 1px solid #ddd; /* Light gray border */
+            color: #333; /* Dark gray text */
+        }
+        .main-content {
+            flex: 3;
+            padding-left: 20px;
+        }
+        h2 {
+            color: #007f7f; /* Teal heading */
+        }
+        h1 {
+            color: #ff6f00; /* Orange heading */
+            margin-top: 0; /* Remove default margin */
+        }
+        .logout-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007f7f; /* Teal button */
+            color: #fff; /* White text */
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .logout-btn:hover {
+            background-color: #005e5e; /* Darker teal on hover */
+        }
+        .sidebar a {
+            display: block;
+            margin-bottom: 10px;
+            color: #666; /* Medium gray text */
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        .sidebar a:hover {
+            color: #007f7f; /* Teal text on hover */
+            font-weight: bold; /* Increase font weight on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2>Admin Panel</h2>
+            <a href="{% url 'courses' %}">Courses</a>
+            <a href="{% url 'batches' %}">Batch</a>
+            <a href="{% url 'students' %}">Student</a>
+            <a href="{% url 'teachers' %}">Teacher</a>
+            <a href="{% url 'announcement_list' %}">Announcement</a>
+        </div>
+        <div class="main-content">
+            <h1>Dashboard of Admin</h1>
+            <a href="{% url 'admin_logout' %}" class="logout-btn">Logout</a>
+        </div>
+    </div>
+</body>
+</html>

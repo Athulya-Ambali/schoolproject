@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcement Detail</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTTXxA2Uo+HIJ/xHFl5VzR/O1R+pGSIlL0I5kk8zYtG3stVxwYrPzUfvW0WueNIE3fefM5RwqA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: #444;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #007bff;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+
+        p strong {
+            color: #444;
+        }
+
+        a, button {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.3s;
+            cursor: pointer;
+        }
+
+        a:hover, button:hover {
+            background-color: #0056b3;
+            transform: translateY(-3px);
+        }
+
+        form {
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        form button {
+            background-color: #dc3545;
+        }
+
+        form button:hover {
+            background-color: #c82333;
+        }
+
+        .container {
+            background: #fff;
+            padding: 2em;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+            text-align: left;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Announcement Detail</h1>
+        <h2>{{ announcement.title }}</h2>
+        <p><strong>Message:</strong> {{ announcement.message }}</p>
+        <p><strong>Created at:</strong> {{ announcement.created_at }}</p>
+        <a href="{% url 'announcement_update' pk=announcement.pk %}">Update</a>
+        <a href="{% url 'announcement_delete' pk=announcement.pk %}">Delete</a>
+
+       
+        <a href="{% url 'announcement_list' %}">Back to Announcements</a>
+    </div>
+</body>
+</html>

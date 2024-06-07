@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Attendance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Light blue background */
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        h2 {
+            color: #4CAF50; /* Green color for the heading */
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        form {
+            width: 50%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #2196F3; /* Blue color for labels */
+        }
+
+        input[type="text"],
+        input[type="time"] {
+            width: calc(100% - 12px);
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button[type="submit"] {
+            background-color: #f44336; /* Red background for submit button */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #d32f2f; /* Darker red on hover */
+        }
+
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #f44336; /* Red color for link */
+            text-decoration: none;
+            font-size: 16px;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+    </style>
+</head>
+<body>
+    <h2>Update Attendance</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Update</button>
+    </form>
+    <a href="{% url 'teacherapp:attendance-success' %}">Cancel</a>
+</body>
+</html>
+
+

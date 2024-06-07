@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Notifications</title>
+</head>
+<body>
+    <h1>Notifications for {{ teacher }}</h1>
+    
+    {% if notifications %}
+        <ul>
+            {% for notification in notifications %}
+                <li>
+                    <h2>{{ notification.title }}</h2>
+                    <p>{{ notification.message }}</p>
+                    {% if notification.document %}
+                        <a href="{{ notification.document.url }}">Download Document</a>
+                    {% endif %}
+                    <form action="{% url 'update_notification' notification.id %}" method="GET">
+                        <button type="submit">Update</button>
+                    </form>
+                    <form action="{% url 'delete_notification' notification.id %}" method="POST">
+                        {% csrf_token %}
+                        <button type="submit">Delete</button>
+                    </form>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No notifications found.</p>
+    {% endif %}
+</body>
+</html>

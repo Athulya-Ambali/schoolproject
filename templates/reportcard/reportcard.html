@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Report Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F2F2F2;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .report-card {
+            width: 300px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+        }
+        h3 {
+            color: #333;
+        }
+        strong {
+            color: #0066CC;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="report-card">
+        <h3>Achievement for {{ student_name }}</h3>
+        <p><strong>Total Marks:</strong> {{ total_marks }}</p>
+        <p><strong>Total Grade:</strong> {{ total_grade }}</p>
+        <p><strong>Performance:</strong> {{ performance }}</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

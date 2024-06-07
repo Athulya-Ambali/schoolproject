@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Subject List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0; /* Light grey background */
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff; /* White container background */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+            border-radius: 8px; /* Rounded corners */
+        }
+
+        h1 {
+            text-align: center;
+            color: #333; /* Dark text color */
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd; /* Border between rows */
+        }
+
+        th {
+            background-color: #f2f2f2; /* Light grey header background */
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        tr:hover {
+            background-color: #f9f9f9; /* Hover effect */
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff; /* Link color */
+            margin-right: 10px;
+        }
+
+        a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+
+        .add-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff; /* Blue button background */
+            color: #fff; /* White button text */
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease; /* Smooth transition */
+        }
+
+        .add-button:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Subjects</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for subject in subjects %}
+                <tr>
+                    <td>{{ subject.name }}</td>
+                    <td>
+                        <a href="{% url 'subject_update' subject.pk %}">Edit</a>
+                        <a href="{% url 'subject_delete' subject.pk %}">Delete</a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="{% url 'subject_create' %}" class="add-button">Add New Subject</a>
+    </div>
+</body>
+</html>
+

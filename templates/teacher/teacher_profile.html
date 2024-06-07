@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Profile</title>
+    <style>
+        /* Reset default margin and padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        /* Container styles */
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Heading styles */
+        h2 {
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Button styles */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #ffadad; /* Pastel Red */
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #ff7f7f; /* Lighter Pastel Red */
+        }
+
+        .btn-success {
+            background-color: #a0e7e5; /* Pastel Cyan */
+            color: #333; /* Darker Text */
+        }
+
+        .btn-success:hover {
+            background-color: #72d9d7; /* Lighter Pastel Cyan */
+        }
+
+        /* Red Button (Logout) */
+        .btn-danger {
+            background-color: #dc3545; /* Red */
+        }
+
+        .btn-danger:hover {
+            background-color: #c82333; /* Darker Red */
+        }
+
+        /* Remove default focus outline */
+        .btn:focus {
+            outline: none;
+        }
+
+        /* Center align buttons */
+        .btn-group {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome {{ teacher.name }}</h2>
+        <div class="btn-group"> 
+            <a href="{% url 'teacherapp:view_students' teacher.course.id teacher.batch.id %}">Students List</a>
+            <a href="{% url 'teacherapp:password_reset_manually' teacher.id %}" class="btn btn-success">Password Reset</a>
+            <a href="{% url 'create_notification' %}" class="btn btn-success">Notifications Create</a>
+            <a href="{% url 'teacherapp:teacher_logout' %}" class="btn btn-danger">Logout</a>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+

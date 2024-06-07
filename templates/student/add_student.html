@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Teacher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f9; /* Light gray background */
+            color: #333; /* Dark gray text */
+        }
+        h1 {
+            color: #6d466b; /* Dusty pink heading */
+            text-align: center;
+            margin-top: 50px;
+        }
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #b2b2c0; /* Dusty blue form background */
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        form button[type="submit"] {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            background-color: #6d466b; /* Dusty pink button */
+            color: #fff; /* White text */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        form button[type="submit"]:hover {
+            background-color: #4a3044; /* Darker dusty pink on hover */
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd; /* Light gray border */
+        }
+        th {
+            background-color: #b2b2c0; /* Dusty blue table header */
+            color: #6d466b; /* Dusty pink text */
+        }
+        tr:nth-child(even) {
+            background-color: #e6e6f0; /* Light gray table row */
+        }
+    </style>
+</head>
+<body>
+    <h1>Create student</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+  $("#id_country").change(function () {
+      var url = "{% url 'list_states' %}";
+      var countryId = $(this).val();
+      $.ajax({
+          url: url,
+          data: {
+              'country_id': countryId
+          },
+          success: function (data) {
+              $("#id_state").html('<option value="">Select state</option>');
+              $.each(data, function (key, value) {
+                  $("#id_state").append('<option value="' + value.id + '">' + value.state_name + '</option>');
+              });
+          }
+      });
+  });
+  $("#id_state").change(function () {
+      var url = "{% url 'list_cities' %}";
+      var stateId = $(this).val();
+      $.ajax({
+          url: url,
+          data: {
+              'state_id': stateId
+          },
+          success: function (data) {
+              $("#id_city").html('<option value="">Select city</option>');
+              $.each(data, function (key, value) {
+                  $("#id_city").append('<option value="' + value.id + '">' + value.city_name + '</option>');
+              });
+          }
+      });
+  });
+</script>
+</html>

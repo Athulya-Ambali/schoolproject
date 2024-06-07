@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Course</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5e1ff; /* Pastel purple */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            color: #452a7a; /* Dark purple */
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        form {
+            width: 300px;
+            padding: 20px;
+            background-color: #d7b9f5; /* Light pastel purple */
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            color: #452a7a; /* Dark purple */
+            margin-bottom: 10px;
+        }
+        input[type="text"] {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #452a7a; /* Dark purple */
+            border-radius: 5px;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease;
+        }
+        input[type="text"]:focus {
+            border-color: #6f4aad; /* Medium purple */
+        }
+        button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #6f4aad; /* Medium purple */
+            border: none;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button[type="submit"]:hover {
+            background-color: #452a7a; /* Darker purple on hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Update Course</h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        <label for="course">Update Course:</label>
+        <input type="text" id="course" name="course" value="{{ course }}">
+        <button type="submit">Update</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendance Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+        }
+        input, select {
+            padding: 10px;
+            margin-bottom: 10px;
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Attendance Report</h1>
+    <form method="post">
+        {% csrf_token %}
+        <label for="start_date">Start Date:</label>
+        <input type="date" id="start_date" name="start_date" value="{{ start_date }}">
+
+        <label for="end_date">End Date:</label>
+        <input type="date" id="end_date" name="end_date" value="{{ end_date }}">
+
+        <label for="teacher_id">Teacher:</label>
+        <select id="teacher_id" name="teacher_id">
+            <option value="">All Teachers</option>
+            {% for teacher in teachers %}
+                <option value="{{ teacher.id }}" {% if teacher.id == teacher_id %}selected{% endif %}>{{ teacher.name }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Generate Report</button>
+    </form>
+
+    {% if attendances %}
+        <table>
+            <tr>
+                <th>Date</th>
+                <th>Teacher Name</th>
+                <th>Arrival Time</th>
+                <th>Departure Time</th>
+                <th>Break Start Time</th>
+                <th>Break End Time</th>
+                <th>Total Working Hours</th>
+                <th>Break Time</th>
+            </tr>
+            {% for attendance in attendances %}
+            <tr>
+                <td>{{ attendance.date }}</td>
+                <td>{{ attendance.teacher_name }}</td>
+                <td>{{ attendance.arrival_time }}</td>
+                <td>{{ attendance.departure_time }}</td>
+                <td>{{ attendance.break_start_time }}</td>
+                <td>{{ attendance.break_end_time }}</td>
+                <td>{{ attendance.get_total_working_hours }}</td>
+                <td>{{ attendance.get_break_time }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% else %}
+        <p>No attendance records found for the specified criteria.</p>
+    {% endif %}
+</body>
+</html>

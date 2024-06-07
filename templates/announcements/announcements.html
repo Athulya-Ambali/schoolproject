@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Announcements</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTTXxA2Uo+HIJ/xHFl5VzR/O1R+pGSIlL0I5kk8zYtG3stVxwYrPzUfvW0WueNIE3fefM5RwqA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: #444;
+            font-size: 2.5em; /* Larger font size for the heading */
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            max-width: 800px;
+        }
+
+        li {
+            background: #fff;
+            margin: 1em 0;
+            padding: 1.5em;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+        }
+
+        li:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        h3 {
+            margin: 0 0 0.5em 0;
+            color: #007bff;
+        }
+
+        p {
+            margin: 0.5em 0;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 15px;
+            color: #fff;
+            background-color: #007bff;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: #0056b3;
+        }
+
+        .create-announcement {
+            margin-top: 20px;
+        }
+
+        @media (max-width: 600px) {
+            li {
+                padding: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Announcements</h1>
+    <ul>
+        {% for announcement in announcements %}
+            <li>
+                <h3>{{ announcement.title }}</h3>
+                <p>{{ announcement.message }}</p>
+                <a href="{% url 'announcement_detail' pk=announcement.pk %}">View Details</a>
+            </li>
+        {% empty %}
+            <li>No announcements available.</li>
+        {% endfor %}
+    </ul>
+    <a class="create-announcement" href="{% url 'announcement_create' %}">Create Announcement</a>
+</body>
+</html>
+

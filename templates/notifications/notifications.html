@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Notifications</title>
+    
+</head>
+<body>
+    <div class="container">
+        <h1>Notifications for {{ student.username }}</h1>
+        
+        {% if notifications %}
+            <ul class="notifications-list">
+                {% for notification in notifications %}
+                    <li class="notification-item">
+                        <h2>{{ notification.title }}</h2>
+                        <p>{{ notification.message }}</p>
+                        {% if notification.document %}
+                            <p><a href="{{ notification.document.url }}">Download document</a></p>
+                        {% endif %}
+                        <p><strong>Posted on:</strong> {{ notification.posted_date }}</p>
+                        <p><strong>Expires on:</strong> {{ notification.expiry_date }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>No notifications available.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
+
+

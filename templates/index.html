@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Links</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/kTcUBaUvIftAWCnQTPbLR31HA7z5+jwXwW+JDDP1Oj5NmK0g5c76B9BfULJpYuhz5R1mA9EIvB+0A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #F0F0F0;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .icon {
+            display: inline-flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 20px;
+            text-decoration: none;
+            color: #fff;
+            text-align: center;
+            width: 150px;
+            height: 150px;
+            border-radius: 8px;
+            transition: transform 0.3s, background-color 0.3s;
+        }
+        .icon i {
+            font-size: 50px;
+            margin-bottom: 10px;
+        }
+        .icon span {
+            font-size: 18px;
+        }
+        .icon:hover {
+            transform: translateY(-10px);
+        }
+        .student {
+            background-color: #AEC6CF;
+        }
+        .student:hover {
+            background-color: #92A8D1;
+        }
+        .teacher {
+            background-color: #FFDAB9;
+        }
+        .teacher:hover {
+            background-color: #F4A7B9;
+        }
+        .admin {
+            background-color: #FFB7B2;
+        }
+        .admin:hover {
+            background-color: #FF6961;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{% url 'studentapp:student_login' %}" class="icon student">
+            <i class="fas fa-user-graduate"></i>
+            <span>Student Login</span>
+        </a>
+        <a href="{% url 'teacherapp:teacher_login' %}" class="icon teacher">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <span>Teacher Login</span>
+        </a>
+        <a href="{% url 'admin_login' %}" class="icon admin">
+            <i class="fas fa-user-shield"></i>
+            <span>Admin Login</span>
+        </a>
+        <a href="{% url 'announcement_dashboard' %}" class="icon student">
+            <i class="fas fa-user-graduate"></i>
+            <span>Announcements</span>
+        </a>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

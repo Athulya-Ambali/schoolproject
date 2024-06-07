@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Profile</title>
+    <style>
+        /* Reset default margin and padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        /* Container styles */
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Heading styles */
+        h2 {
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Button styles */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-right: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        /* Remove default focus outline */
+        .btn:focus {
+            outline: none;
+        }
+
+        /* Center align buttons */
+        .btn-group {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Profile of {{ student.first_name}} {{student.last_name}}</h2>
+         <div class="btn-group">
+    
+            <a href="{% url 'studentapp:student_logout' %}" class="btn" style="background-color: #dc3545;">Logout</a>
+            <a href="{% url 'studentapp:password_reset' %}" class="btn" style="background-color: #dc3545;">Reset Password</a>
+        </div> 
+    </div>
+    <!-- Reminder Section -->
+    <div style="height: 300px; width: 300px; background-color: rgb(245, 211, 169); color: rgb(5, 5, 5);">
+        <h3>Reminders</h3>
+        <ul>
+            {% for reminder, days in reminders %}
+            <li>
+                {% if reminder.document %}
+                <a href="{{ reminder.document.url }}" target="_blank">
+                    {% if days == 0 %}
+                        {{ reminder.title }} ---- will expire today
+                    {% else %}
+                        {{ reminder.title }} ---- will expire within {{ days }} days
+                    {% endif %}
+                </a>
+                {% else %}
+                <a href="">
+                    {% if days == 0 %}
+                    {{ reminder.title }} ---- will expire today
+                {% else %}
+                    {{ reminder.title }} ---- will expire within {{ days }} days
+                {% endif %}
+                </a>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <!-- End of Reminder Section -->
+</div>
+</body>
+</html>

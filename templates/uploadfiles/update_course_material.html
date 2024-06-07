@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F0F4F8; /* Light Grey */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form-container {
+            background-color: #FFFFFF; /* White */
+            padding: 20px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+        .form-container form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .form-container button {
+            background-color: #FF6363; /* Coral Red */
+            color: white;
+            border: none;
+            padding: 12px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .form-container button:hover {
+            background-color: #E55A5A; /* Darker Coral Red */
+        }
+        .form-container input[type="file"],
+        .form-container input[type="text"],
+        .form-container textarea,
+        .form-container select {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+            width: 100%;
+        }
+        .form-container input[type="file"]:focus,
+        .form-container input[type="text"]:focus,
+        .form-container textarea:focus,
+        .form-container select:focus {
+            border-color: #FF6363; /* Coral Red */
+            box-shadow: 0 0 5px rgba(255, 99, 99, 0.5);
+        }
+        .form-container label {
+            text-align: left;
+            margin-bottom: -10px;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Update</button>
+        </form>
+    </div>
+</body>
+</html>

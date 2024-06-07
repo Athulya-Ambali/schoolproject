@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F0F8FF; /* Alice Blue */
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 50%;
+            margin: 20px auto;
+            background-color: #FFFFFF; /* White */
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333; /* Dark Gray */
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            margin-bottom: 10px;
+            color: #333; /* Dark Gray */
+        }
+
+        input[type="text"], input[type="password"] {
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc; /* Light Gray */
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button[type="submit"] {
+            background-color: #77DD77; /* Pastel Green */
+            color: #fff; /* White */
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #99EE99; /* Lighter Pastel Green */
+        }
+
+        .teacher-login {
+            background-color: #C9F0C9; /* Light Pastel Green */
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="teacher-login">
+            <h2>Teacher Login</h2>
+            <form action="" method="post">
+                {% csrf_token %}
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username">
+                
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password">
+                
+                <button type="submit">Login</button>
+            </form>
+            {{msg}}
+        </div>
+    </div>
+</body>
+</html>
+
+

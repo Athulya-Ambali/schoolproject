@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attendance List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #4CAF50; /* Green color for heading */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: #fff; /* White background for the table */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+            border-radius: 10px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #4CAF50; /* Green background for header cells */
+            color: white; /* White text color for header cells */
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2; /* Light gray background for even rows */
+        }
+
+        tr:hover {
+            background-color: #ddd; /* Darker gray background when hovering over a row */
+        }
+    </style>
+</head>
+<body>
+    <h1>Attendance List</h1>
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Teacher Name</th>
+            <th>Arrival Time</th>
+            <th>Departure Time</th>
+            <th>Break Start Time</th>
+            <th>Break End Time</th>
+            <th>Total Working Hours</th>
+            <th>Break Time</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+        {% for attendance in attendances %}
+        <tr>
+            <td>{{ attendance.date }}</td>
+            <td>{{ attendance.teacher_name }}</td>
+            <td>{{ attendance.arrival_time }}</td>
+            <td>{{ attendance.departure_time }}</td>
+            <td>{{ attendance.break_start_time }}</td>
+            <td>{{ attendance.break_end_time }}</td>
+            <td>{{ attendance.get_total_working_hours }}</td>
+            <td>{{ attendance.get_break_time }}</td>
+            <td><a href="{% url 'teacherapp:update_attendance' attendance.pk %}">update</a></td>
+            <td><a href="{% url 'teacherapp:delete_attendance' attendance.pk %}">delete</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
