@@ -4,7 +4,7 @@ from adminapp.models import *
 class TeacherForm(forms.ModelForm):
     class Meta:
         model=Teacher
-        fields=['name','mobile','email','course','batch','country','state','city']
+        fields=['name','mobile','email','course','batch','country','state','city','image']
         # fields='__all__'
 
 
@@ -22,4 +22,4 @@ class StudentForm(forms.ModelForm):
     # define custom fields
     class Meta:
         model=Student
-        fields=['first_name','last_name','email','dob','gender','mobile','address','father_name','course','batch','country','state','city']
+        fields=['first_name','last_name','email','dob','gender','mobile','address','father_name','course','batch','country','state','city','image']

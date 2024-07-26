@@ -12,6 +12,11 @@
         {{ form.as_p }}
         <button type="submit">{% if form.instance.pk %}Update{% else %}Create{% endif %}</button>
     </form>
+
+    
     <a href="{% url 'subject_list' %}">Back to Subject List</a>
+
+    
 </body>
+
 </html>

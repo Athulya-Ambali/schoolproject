@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #F0F0F0;
+            background-color: #f0f0f0; /* Light grey background */
             margin: 0;
             padding: 0;
         }
@@ -31,18 +31,18 @@
             transition: background-color 0.3s ease;
         }
         tr:hover {
-            background-color: #F9F9F9;
+            background-color: #f9f9f9; /* Light grey hover */
         }
         th {
-            background-color: #FF6363; /* Coral Red */
-            color: #fff;
+            background-color: #f8f9fa; /* Pastel white for headers */
+            color: #333;
             font-weight: bold;
         }
         td {
-            background-color: #FFD663; /* Gold */
+            background-color: #ffffff; /* White for table cells */
         }
         button {
-            background-color: #4CAF50; /* Green */
+            background-color: #4caf50; /* Green button */
             color: white;
             border: none;
             padding: 10px 20px;
@@ -56,7 +56,7 @@
             transition: background-color 0.3s ease;
         }
         button:hover {
-            background-color: #45A049; /* Darker Green */
+            background-color: #45a049; /* Darker green on hover */
         }
         a {
             text-decoration: none;
@@ -65,12 +65,12 @@
     </style>
 </head>
 <body>
-    <h2>Studentss List</h2>
+    <h2>Students List</h2>
     <table>
         <tr>
             <th>Id</th>
             <th>Name</th>
-            <th>gender</th>
+            <th>Gender</th>
             <th>Mobile</th>
             <th>Email</th>
             <th>Batch</th>
@@ -79,24 +79,18 @@
         </tr>
         {% for student in students %}
         <tr>
-            <td>{{student.id}}</td>
-            <td>{{student.first_name}} {{student.last_name}}</td>
-            <td>{{student.gender}}</td>
-            <td>{{student.mobile}}</td>
-            <td>{{student.email}}</td>
-            <td>{{student.batch}}</td>
-            <td>{{student.course}}</td>
+            <td>{{ student.id }}</td>
+            <td>{{ student.first_name }} {{ student.last_name }}</td>
+            <td>{{ student.gender }}</td>
+            <td>{{ student.mobile }}</td>
+            <td>{{ student.email }}</td>
+            <td>{{ student.batch }}</td>
+            <td>{{ student.course }}</td>
             <td>
-                
+                <!-- Actions can be added here -->
             </td>
         </tr>
         {% endfor %}
     </table>
 </body>
 </html>
-
-
-
-
-
-

@@ -1,13 +1,52 @@
+<!-- image_view.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>View Images</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+    <style>
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .gallery img {
+            width: 200px; /* Adjust the size as needed */
+            height: auto;
+            margin: 10px;
+            transition: transform 0.2s; /* Animation for smooth zoom */
+        }
+        .gallery img:hover {
+            transform: scale(1.2); /* Zoom in on hover */
+        }
+    </style>
 </head>
 <body>
-    <h1>View Images</h1>
-    {% for img in image %}
-        <img src="{{ img.image.url }}" alt="Uploaded Image" style="width: 200px; height: auto;">
-    {% endfor %}
+    <h1>Uploaded Images</h1>
+    <div class="gallery">
+        {% for img in image %}
+            <a href="{{ img.image.url }}" data-lightbox="image-gallery" data-title="{{ img.image.name }}">
+                <img src="{{ img.image.url }}" alt="{{ img.image.name }}">
+            </a>
+        {% empty %}
+            <p>No images uploaded yet.</p>
+        {% endfor %}
+    </div>
+   
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -74,11 +74,8 @@
             <h2>Student Login</h2>
             <form action="" method="post">
                 {% csrf_token %}
-                {{form.username.label}}
-                {{form.username}} <br>
-
-                {{form.password.label}}
-                {{form.password}}
+                {{form.as_p}}
+                
                 
                 <button type="submit">Login</button>
             </form>

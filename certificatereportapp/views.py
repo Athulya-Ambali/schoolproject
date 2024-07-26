@@ -1,9 +1,13 @@
 from django.shortcuts import render,redirect,HttpResponse
-from .forms import SubjectForm,ReportcardForm
+from .forms import SubjectForm,ReportcardForm,Excelform
 from django.views import View
 from .models import Student,Reportcard,Subject
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
+from django.contrib import messages
+import openpyxl
+from openpyxl import Workbook
+
 
 
 
@@ -65,6 +69,7 @@ class ReportCardCreateView(View):
     def get(self, request):
         form = ReportcardForm()
         return render(request, 'reportcard/report_form.html', {'form': form})
+    
     def post(self, request):
         form = ReportcardForm(request.POST)
         if form.is_valid():
@@ -158,3 +163,67 @@ class GenerateCertificateView(View):
         p.save()
         
         return response
+    
+
+# --------------------------------------- Import and Export  -------------------------------
+
+class ImportDataView(View):
+    def get(self, request):
+        form = Excelform()
+        return render(request, 'excel/excel_upload.html', {'form': form})
+
+    def post(self, request):
+        form = Excelform(request.POST, request.FILES)
+        if form.is_valid():
+            if 'file' not in request.FILES:
+                messages.error(request, "No file uploaded!")
+                return render(request, 'excel/excel_upload.html', {'form': form})
+
+            file = request.FILES['file']
+            wb = openpyxl.load_workbook(file)
+            sheet = wb.active
+
+            for row in sheet.iter_rows(min_row=2, values_only=True):
+                Reportcard.objects.create(
+                    stuname=Student.objects.get(first_name=row[0]),  # Assuming stuname is a ForeignKey to a Student model
+                    sub1=Subject.objects.get(name=row[1]),           # Assuming sub1 is a ForeignKey to a Subject model
+                    mark1=row[2],
+                    sub2=Subject.objects.get(name=row[3]),
+                    mark2=row[4],
+                    sub3=Subject.objects.get(name=row[5]),
+                    mark3=row[6],
+                    sub4=Subject.objects.get(name=row[7]),
+                    mark4=row[8],
+                    sub5=Subject.objects.get(name=row[9]),
+                    mark5=row[10]
+                )
+            messages.success(request, "Data imported successfully!")
+            return HttpResponse("imported successfully")
+        return render(request, 'excel/excel_upload.html', {'form': form})
+
+
+class ExportToExcelView(View):
+
+    def get(self, request, *args, **kwargs):
+        # Create a workbook and select the active worksheet
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Excel Upload Data"
+        # Define the headers
+        headers = ['stuname', 'sub1', 'mark1','sub2','mark2','sub3','mark3','sub4','mark4','sub5','mark5']
+        ws.append(headers)
+        # Fetch the data from the database
+        excel_uploads = Reportcard.objects.all()
+        # Append the data to the worksheet
+        for upload in excel_uploads:
+            ws.append([upload.stuname.first_name, upload.sub1.name,upload.mark1,upload.sub2.name,upload.mark2,upload.sub3.name,upload.mark3,upload.sub4.name,upload.mark4,upload.sub5.name,upload.mark5])
+        # Create an HTTP response with the appropriate headers for Excel file download
+        response = HttpResponse(content_type='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
+        response['Content-Disposition'] = 'attachment; filename=excelupload_data.xlsx'
+        # Save the workbook to the response
+        wb.save(response)
+        return response
+
+
+
+    

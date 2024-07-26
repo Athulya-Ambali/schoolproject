@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #FFEB3B; /* Light Yellow */
+            background-color: #FFFFFF; /* White */
             margin: 0;
             padding: 0;
         }
@@ -20,7 +20,7 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         h2 {
-            color: #333; /* Dark Gray */
+            color: #0277BD; /* Darker Pastel Blue */
             text-align: center;
             margin-bottom: 30px;
         }
@@ -30,17 +30,17 @@
         }
         label {
             margin-bottom: 10px;
-            color: #333; /* Dark Gray */
+            color: #0277BD; /* Darker Pastel Blue */
         }
         input[type="text"], input[type="password"] {
             padding: 10px;
             margin-bottom: 20px;
-            border: 1px solid #ccc; /* Light Gray */
+            border: 1px solid #81D4FA; /* Light Pastel Blue */
             border-radius: 5px;
             font-size: 16px;
         }
         button[type="submit"] {
-            background-color: #4CAF50; /* Green */
+            background-color: #4FC3F7; /* Medium Pastel Blue */
             color: #fff; /* White */
             border: none;
             padding: 10px 20px;
@@ -50,10 +50,10 @@
             transition: background-color 0.3s ease;
         }
         button[type="submit"]:hover {
-            background-color: #45A049; /* Darker Green */
+            background-color: #0288D1; /* Darker Pastel Blue */
         }
         .teacher-login {
-            background-color: #FFCDD2; /* Light Red */
+            background-color: #E1F5FE; /* Lightest Pastel Blue */
             padding: 20px;
             border-radius: 10px;
             text-align: center;
@@ -64,7 +64,7 @@
     <div class="container">
         <div class="teacher-login">
             <h2>Otp Login</h2>
-            <form  method="post">
+            <form method="post">
                 {% csrf_token %}
                 <label>Email:</label>
                 <input type="text" name="email">
@@ -75,6 +75,9 @@
     </div>
 </body>
 </html>
+
+
+
 
 
 

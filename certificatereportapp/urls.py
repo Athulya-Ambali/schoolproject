@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import SubjectListView,SubjectCreateView,SubjectUpdateView,SubjectDeleteView,ReportCardCreateView,ReportCardUpdateView,ReportCardDeleteView,ReportCardView,StudentListView, GenerateCertificateView,ReportCardListView
+from .views import SubjectListView,SubjectCreateView,SubjectUpdateView,SubjectDeleteView,ReportCardCreateView,ReportCardUpdateView,ReportCardDeleteView,ReportCardView,StudentListView, GenerateCertificateView,ReportCardListView,ImportDataView,ExportToExcelView
 
 
 urlpatterns = [
@@ -17,5 +17,8 @@ urlpatterns = [
 
     path('students/', StudentListView.as_view(), name='student_list'),
     path('generate_certificate/<int:student_id>/', GenerateCertificateView.as_view(), name='generate_certificate'),
+    
+    path('import/', ImportDataView.as_view(), name='import_data'),
+    path('export/', ExportToExcelView.as_view(), name='export_data'),
 
 ]

@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #f0f0f0; /* Light grey background */
             margin: 0;
             padding: 0;
         }
@@ -35,22 +35,22 @@
         }
 
         tr:hover {
-            background-color: #f9f9f9;
+            background-color: #f9f9f9; /* Light grey hover */
         }
 
         th {
-            background-color: #ff6363; /* Coral Red */
-            color: #fff;
+            background-color: #333; /* Black header background */
+            color: #fff; /* White text color */
             font-weight: bold;
         }
 
         td {
-            background-color: #ffd663; /* Gold */
+            background-color: #fff; /* White cell background */
         }
 
         button {
-            background-color: #4CAF50; /* Green */
-            color: white;
+            background-color: #333; /* Black button background */
+            color: #fff; /* White text color */
             border: none;
             padding: 10px 20px;
             text-align: center;
@@ -64,7 +64,7 @@
         }
 
         button:hover {
-            background-color: #45a049; /* Darker Green */
+            background-color: #555; /* Darker black on hover */
         }
 
         a {
@@ -90,15 +90,15 @@
         </tr>
         {% for teacher in teachers %}
         <tr>
-            <td>{{teacher.id}}</td>
-            <td>TR000{{teacher.id}}</td>
-            <td>{{teacher.name}}</td>
-            <td>{{teacher.mobile}}</td>
-            <td>{{teacher.email}}</td>
-            <td>{{teacher.batch}}</td>
-            <td>{{teacher.course}}</td>
-            <td>{{teacher.username}}</td>
-            <td>{{teacher.password}}</td>
+            <td>{{ teacher.id }}</td>
+            <td>TR000{{ teacher.id }}</td>
+            <td>{{ teacher.name }}</td>
+            <td>{{ teacher.mobile }}</td>
+            <td>{{ teacher.email }}</td>
+            <td>{{ teacher.batch }}</td>
+            <td>{{ teacher.course }}</td>
+            <td>{{ teacher.username }}</td>
+            <td>{{ teacher.password }}</td>
             <td>
                 <a href="{% url 'update_teacher' teacher.id %}"><button>Update</button></a>
                 <a href="{% url 'delete_teacher' teacher.id %}"><button>Delete</button></a>
@@ -108,3 +108,4 @@
     </table>
 </body>
 </html>
+

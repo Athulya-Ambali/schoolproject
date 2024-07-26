@@ -7,6 +7,8 @@ from studentapp.forms import StudentLoginForm
 from communicationapp.models import Announcement, Notifications
 from django.db.models import Q
 
+from teacherapp.models import CourseMaterial
+
 # Create your views here.
 
 class StudentLogin(View):
@@ -42,12 +44,14 @@ class StudentProfile(View):
         
         # Fetching student's details
         stud_ent = Student.objects.get(username=student.username, email=student.email)
+        print(f'hhhhhh{stud_ent.course},{stud_ent.batch}')
         s_course = stud_ent.course
         s_batch = stud_ent.batch
         
         # Fetching notifications related to the student's course and batch
         today = date.today()
         teacher = Teacher.objects.get(course=s_course, batch=s_batch)
+        files=CourseMaterial.objects.filter(course=s_course,batch=s_batch)
         print(teacher)
         notifications = Notifications.objects.filter(Q(Q(teacher=teacher) | Q(teacher__isnull=True)) & Q(expiry_date__gte=today))
         
@@ -60,8 +64,10 @@ class StudentProfile(View):
         
         return render(request, 'student/student_profile.html', {
             'student': student,
+            'stud_ent':stud_ent,
             'notifications': notifications,
             'reminders': reminders,
+             'files':files,
         })
 
         
@@ -71,6 +77,9 @@ class StudentLogout(View):
         logout(request)
         return redirect('studentapp:student_login')
     
+
+#----------------------------------------Announcement view--------------------------
+
 
 class AnnouncementView(View):
     def get(self,request):

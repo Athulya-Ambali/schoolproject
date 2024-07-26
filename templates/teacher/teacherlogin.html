@@ -74,12 +74,10 @@
             <h2>Teacher Login</h2>
             <form action="" method="post">
                 {% csrf_token %}
-                <label for="username">Username:</label>
-                <input type="text" id="username" name="username">
-                
-                <label for="password">Password:</label>
-                <input type="password" id="password" name="password">
-                
+                {{form.as_p}}
+
+                <a href="{% url 'teacherapp:login_email_otp' %}" class="btn">Login With OTP</a>
+               
                 <button type="submit">Login</button>
             </form>
             {{msg}}

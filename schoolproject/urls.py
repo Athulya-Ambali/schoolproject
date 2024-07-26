@@ -27,5 +27,7 @@ urlpatterns = [
     path('certificatereportapp/',include('certificatereportapp.urls')),
     path('communicationapp/', include('communicationapp.urls')),
     path('imageapp/',include('imageapp.urls')),
+    path('chatapp/',include('chatapp.urls')),
+    path("__debug__/", include("debug_toolbar.urls")),
     
 ]+static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)

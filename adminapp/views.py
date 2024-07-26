@@ -1,4 +1,4 @@
-from ast import If
+from django.core.cache import cache
 from django.http import JsonResponse
 from django.shortcuts import render,redirect,HttpResponse
 from django.views import View
@@ -11,6 +11,8 @@ from django.core.mail import send_mail
 import random
 from django.utils.dateparse import parse_date
 from teacherapp.models import TeacherAttendance
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 
 
 
@@ -64,12 +66,26 @@ class AddCourse(View):
             course=request.POST.get('course')
             course_obj=Course.objects.create(course_name=course)
             return redirect('view_course')
-               
-    
+
+
+# class ViewCourse(View):
+#     def get(self, request):
+#         courses = cache.get('course_list')
+#         if not courses:
+#             courses = list(Course.objects.all())
+#             cache.set('course_list', courses, 60) # Cache data for 1 minutes
+#         return render(request, 'view_course.html', {'courses': courses})
+
+# class ViewCourse(View):
+#     def get(self,request):
+#         courses=Course.objects.all()
+#         return render(request,'view_course.html',{'courses':courses})
+
+@method_decorator(cache_page(60*2),name='dispatch')
 class ViewCourse(View):
-    def get(self,request):
-        courses=Course.objects.all()
-        return render(request,'view_course.html',{'courses':courses})
+    def get(self, request):
+        courses = Course.objects.all()
+        return render(request, 'view_course.html', {'courses': courses})
     
 class UpdateCourse(View):
     def get(self,request,id):
@@ -153,12 +169,12 @@ class TeacherPage(View):
 class AddTeacher(View):
     def get(self,request):
         form=TeacherForm()
-        return render(request,'teacher/add_teacher.html',{'form':form})
+        return render(request,'teacher/add_teacher.html',{'form':form})     
     
-
+     
     def post(self,request):
         if request.method=='POST':
-            form=TeacherForm(request.POST)
+            form=TeacherForm(request.POST,request.FILES)
             if form.is_valid():
                 name= form.cleaned_data['name']
 
@@ -188,7 +204,7 @@ class AddTeacher(View):
 
 class TeachersList(View):
     def get(self,request):
-        teacher_obj=Teacher.objects.all()
+        teacher_obj=Teacher.objects.select_related('course','batch','country','state','city').all()
         return render(request,'teacher/view_teacher.html',{'teachers':teacher_obj})
     
 
@@ -201,7 +217,7 @@ class UpdateTeacher(View):
     def post(self,request,id):
         teacher_instance=Teacher.objects.get(id=id)
         if request.method=='POST':
-            form=TeacherForm(request.POST, instance=teacher_instance)
+            form=TeacherForm(request.POST,request.FILES, instance=teacher_instance)
             if form.is_valid():
                 form.save()
                 return redirect('view_teacher')
@@ -229,7 +245,7 @@ class AddStudent(View):
     
     def post(self,request):
         if request.method=='POST':
-            form=StudentForm(request.POST)
+            form=StudentForm(request.POST,request.FILES)
             if form.is_valid():
                 name= form.cleaned_data['first_name']
 
@@ -258,7 +274,7 @@ class AddStudent(View):
 
 class StudentsList(View):
     def get(self,request):
-        student_obj=Student.objects.all()
+        student_obj=Student.objects.select_related('course','batch','country','state','city').all()
         return render(request,'student/view_student.html',{'students':student_obj})
             
 
@@ -271,7 +287,7 @@ class UpdateStudent(View):
     def post(self,request,id):
         student_instance=Student.objects.get(id=id)
         if request.method=='POST':
-            form=StudentForm(request.POST,instance=student_instance)
+            form=StudentForm(request.POST,request.FILES,instance=student_instance)
             if form.is_valid():
                 form.save()
                 return redirect('view_student')
@@ -284,6 +300,9 @@ class DeleteStudent(View):
         student_instance=Student.objects.get(id=id)
         student_instance.delete()
         return redirect('view_student')
+    
+
+
 
 
 

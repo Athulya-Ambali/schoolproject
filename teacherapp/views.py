@@ -89,16 +89,20 @@ class PasswordResetManually(View):
 class LoginEmailOtp(View):
     def get(self, request):
         return render(request, 'teacher/otp.html')
+    
     def post(self, request):
         if request.method == 'POST':
             email = request.POST.get('email')
             print(email)
-            teacher = Teacher.objects.get(email=email)  # checking wheather teacher exist in given username and password
+            teacher = Teacher.objects.get(email=email)
+            
+            # checking wheather teacher exist in given username and password
             if teacher is not None:
                 request.session['teacher'] = teacher.id  # creating a sesseion for teacher to get teacher object in next View(OtpVerification(View))
                 otp = get_random_string(length=6, allowed_chars='1234567890')
                 expiration_time = datetime.now() + timedelta(minutes=5)
                 expiration_time_str = expiration_time.strftime('%Y-%m-%d %H:%M:%S')
+                
                 subject = 'OTP for Login'
                 message = f'Your OTP for login account : {otp}'
                 from_email = settings.EMAIL_HOST_USER
@@ -119,6 +123,7 @@ class LoginEmailOtp(View):
 class OtpVerification(View):
     def get(self, request):
         return render(request, 'teacher/otp_verification.html')
+    
     def post(self, request):
         if request.method == 'POST':
             otp_entered = request.POST.get('otp')
@@ -207,7 +212,7 @@ class MarkAttendanceView(View):
 
 class AttendanceSuccessView(View):
     def get(self, request):
-        attendances=TeacherAttendance.objects.all
+        attendances=TeacherAttendance.objects.all()
         return render(request, 'teacherAttendance/attendance_success.html',{'attendances':attendances})
     
     
@@ -239,3 +244,7 @@ class ViewStudents(View):
     def get(self,request,course,batch):
         students=Student.objects.filter(course=course,batch=batch)
         return render(request,'teacher/view_studentsTeacher.html',{'students':students})
+    
+    
+
+

@@ -17,17 +17,61 @@
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
             color: #333;
+            display: flex;
+            height: 100vh;
+        }
+
+        /* Sidebar styles */
+        .sidebar {
+            width: 250px;
+            background-color: #007bff;
+            padding: 20px;
+            color: #fff;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .sidebar img {
+            height: 60px;
+            width: 60px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+            align-self: center;
+        }
+
+        .sidebar .btn {
+            background-color: #0056b3;
+            color: #fff;
+            padding: 10px 20px;
+            margin: 10px 0;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .sidebar .btn:hover {
+            background-color: #004494;
+        }
+
+        .sidebar .btn:focus {
+            outline: none;
         }
 
         /* Container styles */
         .container {
-            max-width: 800px;
-            margin: 50px auto;
+            flex: 1;
+            margin: 50px;
             padding: 20px;
             background-color: #fff;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
 
         .container:hover {
@@ -43,12 +87,11 @@
         }
 
         /* Button styles */
-        .btn {
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 10px;
-            background-color: #ffadad; /* Pastel Red */
+        .logout-btn {
+            background-color: #007bff;
             color: #fff;
+            padding: 10px 20px;
+            text-align: center;
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -56,51 +99,34 @@
             transition: background-color 0.3s ease;
         }
 
-        .btn:hover {
-            background-color: #ff7f7f; /* Lighter Pastel Red */
+        .logout-btn:hover {
+            background-color: #0056b3;
         }
 
-        .btn-success {
-            background-color: #a0e7e5; /* Pastel Cyan */
-            color: #333; /* Darker Text */
-        }
-
-        .btn-success:hover {
-            background-color: #72d9d7; /* Lighter Pastel Cyan */
-        }
-
-        /* Red Button (Logout) */
-        .btn-danger {
-            background-color: #dc3545; /* Red */
-        }
-
-        .btn-danger:hover {
-            background-color: #c82333; /* Darker Red */
-        }
-
-        /* Remove default focus outline */
-        .btn:focus {
+        .logout-btn:focus {
             outline: none;
-        }
-
-        /* Center align buttons */
-        .btn-group {
-            text-align: center;
         }
     </style>
 </head>
 <body>
+    <div class="sidebar">
+        <img src="{{ teacher.image.url }}" alt="{{ teacher.name }}">
+        <a href="{% url 'teacherapp:view_students' teacher.course.id teacher.batch.id %}" class="btn">Students List</a>
+        <a href="{% url 'teacherapp:password_reset_manually' teacher.id %}" class="btn">Password Reset</a>
+        <a href="{% url 'create_notification' %}" class="btn">Notifications Create</a>
+        <a href="{% url 'chatapp:chat' %}" class="btn">Chat Room</a>
+        <a href="{% url 'export_data' %}" class="btn">Export excel</a>
+        <a href="{% url 'import_data' %}" class="btn">Import excel</a>
+        <a href="{% url 'reportcard_create' %}" class="btn">Create Report Card</a>
+        <a href="{% url 'reportcard_list' %}" class="btn">View Report Card</a>
+    </div>
     <div class="container">
         <h2>Welcome {{ teacher.name }}</h2>
-        <div class="btn-group"> 
-            <a href="{% url 'teacherapp:view_students' teacher.course.id teacher.batch.id %}">Students List</a>
-            <a href="{% url 'teacherapp:password_reset_manually' teacher.id %}" class="btn btn-success">Password Reset</a>
-            <a href="{% url 'create_notification' %}" class="btn btn-success">Notifications Create</a>
-            <a href="{% url 'teacherapp:teacher_logout' %}" class="btn btn-danger">Logout</a>
-        </div>
+        <a href="{% url 'teacherapp:teacher_logout' %}" class="logout-btn">Logout</a>
     </div>
 </body>
 </html>
+
 
 
 

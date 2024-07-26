@@ -26,4 +26,4 @@ class ViewImage(View):
         return render(request,'image/image_view.html',{'image':image})
 
 
-    
+  

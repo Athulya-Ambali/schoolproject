@@ -114,8 +114,8 @@ class NotificationView(View):
 
 class CreateNotificationView(View):
     def get(self, request):
-      
-       
+    
+     
         # Instantiate the NotificationForm to render the form in the template
         form = NotificationForm()
         return render(request, 'notifications/create_notification.html', {'form': form})

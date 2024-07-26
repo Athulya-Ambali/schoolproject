@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Module</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+    <h1>Let's Chat </h1>
+    <form id="form">
+        <textarea id="message-input" name="message" placeholder="Type your message..." rows="4" cols="50"></textarea>
+        <button type="submit">Send</button>
+    </form>
+    <div id="messages"></div>
+    <script type="text/javascript">
+        let url = 'ws://' + window.location.host + '/ws/socket-server/';
+        const chatsocket = new WebSocket(url);
+        chatsocket.onmessage = function(event) {
+            let data = JSON.parse(event.data);
+            console.log('Data:', data);
+            // Handle incoming messages and update UI here
+            if (data.type== 'chat'){
+                let message = document.getElementById('message')
+                messages.insertAdjacentHTML('beforeend', `
+                <div>
+                    <p>${data.message}</p>
+                </div>
+            `)
+            }
+        }
+        let form = document.getElementById('form');
+        form.addEventListener('submit', (e) => {
+            e.preventDefault();
+            let message = e.target.message.value;
+            chatsocket.send(JSON.stringify({
+                'message': message
+            }));
+            form.reset();
+        });
+    </script>
+</body>
+</html>

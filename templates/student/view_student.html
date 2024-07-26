@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #f0f0f0; /* Light grey background */
             margin: 0;
             padding: 0;
         }
@@ -35,21 +35,21 @@
         }
 
         tr:hover {
-            background-color: #f9f9f9;
+            background-color: #f9f9f9; /* Light grey hover */
         }
 
         th {
-            background-color: #ff6363; /* Coral Red */
-            color: #fff;
+            background-color: #a0e7e5; /* Pastel Cyan for headers */
+            color: #333;
             font-weight: bold;
         }
 
         td {
-            background-color: #ffd663; /* Gold */
+            background-color: #ffffff; /* White for table cells */
         }
 
         button {
-            background-color: #4CAF50; /* Green */
+            background-color: #4caf50; /* Green button */
             color: white;
             border: none;
             padding: 10px 20px;
@@ -64,7 +64,7 @@
         }
 
         button:hover {
-            background-color: #45a049; /* Darker Green */
+            background-color: #45a049; /* Darker green on hover */
         }
 
         a {
@@ -80,10 +80,10 @@
             <th>Id</th>
             <th>Student Id</th>
             <th>Name</th>
-            <th>gender</th>
+            <th>Gender</th>
             <th>Mobile</th>
             <th>Email</th>
-            <th>dob</th>
+            <th>DOB</th>
             <th>Address</th>
             <th>Batch</th>
             <th>Course</th>
@@ -94,22 +94,22 @@
         </tr>
         {% for student in students %}
         <tr>
-            <td>{{student.id}}</td>
-            <td>STD000{{student.id}}</td>
-            <td>{{student.first_name}} {{student.last_name}}</td>
-            <td>{{student.gender}}</td>
-            <td>{{student.mobile}}</td>
-            <td>{{student.email}}</td>
-            <td>{{student.dob}}</td>
-            <td>{{student.address}}</td>
-            <td>{{student.batch}}</td>
-            <td>{{student.course}}</td>
-            <td>{{student.username}}</td>
-            <td>{{student.password}}</td>
-            <td>{{student.father_name}}</td>
+            <td>{{ student.id }}</td>
+            <td>STD000{{ student.id }}</td>
+            <td>{{ student.first_name }} {{ student.last_name }}</td>
+            <td>{{ student.gender }}</td>
+            <td>{{ student.mobile }}</td>
+            <td>{{ student.email }}</td>
+            <td>{{ student.dob }}</td>
+            <td>{{ student.address }}</td>
+            <td>{{ student.batch }}</td>
+            <td>{{ student.course }}</td>
+            <td>{{ student.username }}</td>
+            <td>{{ student.password }}</td>
+            <td>{{ student.father_name }}</td>
             <td>
-                <a href="{% url 'update_student' student.id %}"><button>Update</button></a>
-                <a href="{% url 'delete_student' student.id %}"><button>Delete</button></a> 
+                <a href="{% url 'update_student' student.id %}"><button style="background-color: #a0e7e5;">Update</button></a>
+                <a href="{% url 'delete_student' student.id %}"><button style="background-color: #a0e7e5;">Delete</button></a>
             </td>
         </tr>
         {% endfor %}

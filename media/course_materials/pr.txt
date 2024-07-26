@@ -1,0 +1,27 @@
+
+Block chain used Ganache 
+
+Ganache configured using 
+
+	Truffle------- Used platform  Nodejs
+
+	smart contract location c:\\hello\\contract\\countefeit.sol
+
+	deploying address 127.0.0.1  port no 7545
+
+
+
+
+
+
+
+Used IDE Pycharm
+ued language python
+used framework flask
+used database mysql
+
+
+
+frontend html,android
+backend python,mysql
+	
