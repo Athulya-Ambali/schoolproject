@@ -1,0 +1,3487 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Country",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Batch",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "isExtraImport": true,
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "django.core.cache",
+        "description": "django.core.cache",
+        "isExtraImport": true,
+        "detail": "django.core.cache",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "django.core.cache",
+        "description": "django.core.cache",
+        "isExtraImport": true,
+        "detail": "django.core.cache",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentForm",
+        "importPath": "adminapp.forms",
+        "description": "adminapp.forms",
+        "isExtraImport": true,
+        "detail": "adminapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherForm",
+        "importPath": "adminapp.forms",
+        "description": "adminapp.forms",
+        "isExtraImport": true,
+        "detail": "adminapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "parse_date",
+        "importPath": "django.utils.dateparse",
+        "description": "django.utils.dateparse",
+        "isExtraImport": true,
+        "detail": "django.utils.dateparse",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAttendance",
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "isExtraImport": true,
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterial",
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "isExtraImport": true,
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterial",
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "isExtraImport": true,
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterial",
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "isExtraImport": true,
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "cache_page",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "Reportcard",
+        "importPath": "certificatereportapp.models",
+        "description": "certificatereportapp.models",
+        "isExtraImport": true,
+        "detail": "certificatereportapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "letter",
+        "importPath": "reportlab.lib.pagesizes",
+        "description": "reportlab.lib.pagesizes",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.pagesizes",
+        "documentation": {}
+    },
+    {
+        "label": "canvas",
+        "importPath": "reportlab.pdfgen",
+        "description": "reportlab.pdfgen",
+        "isExtraImport": true,
+        "detail": "reportlab.pdfgen",
+        "documentation": {}
+    },
+    {
+        "label": "openpyxl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "Workbook",
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "isExtraImport": true,
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "isExtraImport": true,
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "UploadedImage",
+        "importPath": "imageapp.models",
+        "description": "imageapp.models",
+        "isExtraImport": true,
+        "detail": "imageapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddlewareStack",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "chatapp.routing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chatapp.routing",
+        "description": "chatapp.routing",
+        "detail": "chatapp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "ReCaptchaField",
+        "importPath": "django_recaptcha.fields",
+        "description": "django_recaptcha.fields",
+        "isExtraImport": true,
+        "detail": "django_recaptcha.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ReCaptchaField",
+        "importPath": "django_recaptcha.fields",
+        "description": "django_recaptcha.fields",
+        "isExtraImport": true,
+        "detail": "django_recaptcha.fields",
+        "documentation": {}
+    },
+    {
+        "label": "ReCaptchaV3",
+        "importPath": "django_recaptcha.widgets",
+        "description": "django_recaptcha.widgets",
+        "isExtraImport": true,
+        "detail": "django_recaptcha.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "ReCaptchaV3",
+        "importPath": "django_recaptcha.widgets",
+        "description": "django_recaptcha.widgets",
+        "isExtraImport": true,
+        "detail": "django_recaptcha.widgets",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "StudentLoginForm",
+        "importPath": "studentapp.forms",
+        "description": "studentapp.forms",
+        "isExtraImport": true,
+        "detail": "studentapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Announcement",
+        "importPath": "communicationapp.models",
+        "description": "communicationapp.models",
+        "isExtraImport": true,
+        "detail": "communicationapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notifications",
+        "importPath": "communicationapp.models",
+        "description": "communicationapp.models",
+        "isExtraImport": true,
+        "detail": "communicationapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "attr",
+        "description": "attr",
+        "isExtraImport": true,
+        "detail": "attr",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherLoginForm",
+        "importPath": "teacherapp.forms",
+        "description": "teacherapp.forms",
+        "isExtraImport": true,
+        "detail": "teacherapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_string",
+        "importPath": "django.utils.crypto",
+        "description": "django.utils.crypto",
+        "isExtraImport": true,
+        "detail": "django.utils.crypto",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0001_initial",
+        "description": "adminapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AdminDetails',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('last_login', models.DateTimeField(blank=True, null=True, verbose_name='last login')),",
+        "detail": "adminapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0002_batch_course_teacher",
+        "description": "adminapp.migrations.0002_batch_course_teacher",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Batch',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('batch', models.CharField(max_length=100)),",
+        "detail": "adminapp.migrations.0002_batch_course_teacher",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0003_alter_teacher_email",
+        "description": "adminapp.migrations.0003_alter_teacher_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0002_batch_course_teacher'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='teacher',\n            name='email',\n            field=models.EmailField(max_length=50),\n        ),",
+        "detail": "adminapp.migrations.0003_alter_teacher_email",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0004_student",
+        "description": "adminapp.migrations.0004_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0003_alter_teacher_email'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('user_ptr', models.OneToOneField(auto_created=True, on_delete=django.db.models.deletion.CASCADE, parent_link=True, primary_key=True, serialize=False, to=settings.AUTH_USER_MODEL)),",
+        "detail": "adminapp.migrations.0004_student",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0005_country_state_city",
+        "description": "adminapp.migrations.0005_country_state_city",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Country',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('country_name', models.CharField(max_length=50)),",
+        "detail": "adminapp.migrations.0005_country_state_city",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0006_student_city_student_country_student_state_and_more",
+        "description": "adminapp.migrations.0006_student_city_student_country_student_state_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0005_country_state_city'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='city',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='adminapp.city'),\n        ),",
+        "detail": "adminapp.migrations.0006_student_city_student_country_student_state_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0007_alter_student_options_alter_student_dob_and_more",
+        "description": "adminapp.migrations.0007_alter_student_options_alter_student_dob_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0006_student_city_student_country_student_state_and_more'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='student',\n            options={},\n        ),",
+        "detail": "adminapp.migrations.0007_alter_student_options_alter_student_dob_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0008_alter_teacher_email_alter_teacher_mobile_and_more",
+        "description": "adminapp.migrations.0008_alter_teacher_email_alter_teacher_mobile_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0007_alter_student_options_alter_student_dob_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='teacher',\n            name='email',\n            field=models.EmailField(db_index=True, max_length=50),\n        ),",
+        "detail": "adminapp.migrations.0008_alter_teacher_email_alter_teacher_mobile_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0009_remove_teacher_adminapp_te_name_454df6_idx_and_more",
+        "description": "adminapp.migrations.0009_remove_teacher_adminapp_te_name_454df6_idx_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0008_alter_teacher_email_alter_teacher_mobile_and_more'),\n    ]\n    operations = [\n        migrations.RemoveIndex(\n            model_name='teacher',\n            name='adminapp_te_name_454df6_idx',\n        ),\n        migrations.RemoveIndex(",
+        "detail": "adminapp.migrations.0009_remove_teacher_adminapp_te_name_454df6_idx_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0010_alter_teacher_username",
+        "description": "adminapp.migrations.0010_alter_teacher_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0009_remove_teacher_adminapp_te_name_454df6_idx_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='teacher',\n            name='username',\n            field=models.CharField(max_length=30, unique=True),\n        ),",
+        "detail": "adminapp.migrations.0010_alter_teacher_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0011_alter_teacher_username",
+        "description": "adminapp.migrations.0011_alter_teacher_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0010_alter_teacher_username'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='teacher',\n            name='username',\n            field=models.CharField(max_length=30),\n        ),",
+        "detail": "adminapp.migrations.0011_alter_teacher_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0012_alter_teacher_username",
+        "description": "adminapp.migrations.0012_alter_teacher_username",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0011_alter_teacher_username'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='teacher',\n            name='username',\n            field=models.CharField(max_length=30, null=True),\n        ),",
+        "detail": "adminapp.migrations.0012_alter_teacher_username",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0013_student_image",
+        "description": "adminapp.migrations.0013_student_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0012_alter_teacher_username'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='student',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='media/images/'),\n        ),",
+        "detail": "adminapp.migrations.0013_student_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "adminapp.migrations.0014_teacher_image",
+        "description": "adminapp.migrations.0014_teacher_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0013_student_image'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='teacher',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='media/images/'),\n        ),",
+        "detail": "adminapp.migrations.0014_teacher_image",
+        "documentation": {}
+    },
+    {
+        "label": "AdminappConfig",
+        "kind": 6,
+        "importPath": "adminapp.apps",
+        "description": "adminapp.apps",
+        "peekOfCode": "class AdminappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'adminapp'",
+        "detail": "adminapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherForm",
+        "kind": 6,
+        "importPath": "adminapp.forms",
+        "description": "adminapp.forms",
+        "peekOfCode": "class TeacherForm(forms.ModelForm):\n    class Meta:\n        model=Teacher\n        fields=['name','mobile','email','course','batch','country','state','city','image']\n        # fields='__all__'\nclass StudentForm(forms.ModelForm):\n    GENDER_CHOICES = [\n        ('male', 'Male'),\n        ('female', 'Female'),\n          ] ",
+        "detail": "adminapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "StudentForm",
+        "kind": 6,
+        "importPath": "adminapp.forms",
+        "description": "adminapp.forms",
+        "peekOfCode": "class StudentForm(forms.ModelForm):\n    GENDER_CHOICES = [\n        ('male', 'Male'),\n        ('female', 'Female'),\n          ] \n     # here we set how much radio buttons needed for an option, value which to save and label to show.\n       # in the above example ('male':'Male') male= value to save, Male= label to show.\n    # Define the gender field with RadioSelect widget\n    gender = forms.ChoiceField(choices=GENDER_CHOICES, widget=forms.RadioSelect, required=False)\n    # define custom fields",
+        "detail": "adminapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AdminDetails",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class AdminDetails(AbstractBaseUser):\n    username=models.CharField(max_length=20)\n    password=models.CharField(max_length=20)\n    def __str__(self):\n        return self.username\n# school_management/models.py63\nclass Course(models.Model):\n    course_name=models.CharField(max_length=100)\n    def save(self, *args, **kwargs):\n        super().save(*args, **kwargs)",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class Course(models.Model):\n    course_name=models.CharField(max_length=100)\n    def save(self, *args, **kwargs):\n        super().save(*args, **kwargs)\n        cache.delete('view_course')  # Clear the cache when a course is saved\n    def __str__(self) -> str:\n        return self.course_name\nclass Batch(models.Model):\n    batch=models.CharField(max_length=100)\n    def __str__(self):",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Batch",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class Batch(models.Model):\n    batch=models.CharField(max_length=100)\n    def __str__(self):\n        return self.batch\nclass Country(models.Model):\n    country_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.country_name\nclass State(models.Model):\n    country=models.ForeignKey(Country,on_delete=models.CASCADE)",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Country",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class Country(models.Model):\n    country_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.country_name\nclass State(models.Model):\n    country=models.ForeignKey(Country,on_delete=models.CASCADE)\n    state_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.state_name\nclass City(models.Model):",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class State(models.Model):\n    country=models.ForeignKey(Country,on_delete=models.CASCADE)\n    state_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.state_name\nclass City(models.Model):\n    state=models.ForeignKey(State,on_delete=models.CASCADE)\n    city_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.city_name",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "City",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class City(models.Model):\n    state=models.ForeignKey(State,on_delete=models.CASCADE)\n    city_name=models.CharField(max_length=50)\n    def __str__(self):\n        return self.city_name\nclass Teacher(AbstractBaseUser):\n    name = models.CharField(max_length=30)\n    username=models.CharField(max_length=30,null=True)\n    password=models.CharField(max_length=30)\n    mobile = models.CharField(max_length=20)",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class Teacher(AbstractBaseUser):\n    name = models.CharField(max_length=30)\n    username=models.CharField(max_length=30,null=True)\n    password=models.CharField(max_length=30)\n    mobile = models.CharField(max_length=20)\n    email= models.EmailField(max_length=50)\n    course=models.ForeignKey(Course,on_delete=models.CASCADE, related_name='course_teacher')\n    batch=models.ForeignKey(Batch,on_delete=models.CASCADE,related_name='batch_teacher')\n    country=models.ForeignKey(Country,on_delete=models.CASCADE,null=True,blank=True)\n    state=models.ForeignKey(State,on_delete=models.CASCADE,null=True,blank=True)",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "adminapp.models",
+        "description": "adminapp.models",
+        "peekOfCode": "class Student(User):\n    # first_name=models.CharField(max_length=50)   because we use User,and these fields are already inbuilt in user\n    # last_name=models.CharField(max_length=50)\n    # email=models.CharField(max_length=50)\n    # username=models.CharField(max_length=50)\n    # password=models.CharField(max_length=50)\n    dob = models.DateField(db_index=True)\n    gender = models.CharField(max_length=20, db_index=True)\n    mobile = models.CharField(max_length=20, db_index=True)\n    address = models.CharField(max_length=100)",
+        "detail": "adminapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class Index(View):\n    def get(self,request):\n        return render(request,'index.html')\nclass AdminLogin(View):\n    def get(self,request):\n        return render(request,'admin_login.html')\n    def post(self,request):\n        if request.method=='POST':\n            username=request.POST.get('username')\n            password=request.POST.get('password')",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AdminLogin",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AdminLogin(View):\n    def get(self,request):\n        return render(request,'admin_login.html')\n    def post(self,request):\n        if request.method=='POST':\n            username=request.POST.get('username')\n            password=request.POST.get('password')\n            admin= AdminDetails.objects.get(username=username, password=password)\n            print(admin)\n            if admin is not None:",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AdminLogout",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AdminLogout(View):\n    def get(self,request):\n        logout(request)\n        return redirect('admin_login')\nclass AdminDashBoard(View):\n    def get(self,request):\n        return render(request,'admin_dashboard.html')\n#-------------------CRUD on Course-----------------------------------\nclass CoursePage(View):\n    def get(self,request):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AdminDashBoard",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AdminDashBoard(View):\n    def get(self,request):\n        return render(request,'admin_dashboard.html')\n#-------------------CRUD on Course-----------------------------------\nclass CoursePage(View):\n    def get(self,request):\n        return render(request,'courses.html') \nclass AddCourse(View):\n    def get(self,request):\n        return render(request,'add_course.html')",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CoursePage",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class CoursePage(View):\n    def get(self,request):\n        return render(request,'courses.html') \nclass AddCourse(View):\n    def get(self,request):\n        return render(request,'add_course.html')\n    def post(self,request):\n        if request.method=='POST':\n            course=request.POST.get('course')\n            course_obj=Course.objects.create(course_name=course)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCourse",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AddCourse(View):\n    def get(self,request):\n        return render(request,'add_course.html')\n    def post(self,request):\n        if request.method=='POST':\n            course=request.POST.get('course')\n            course_obj=Course.objects.create(course_name=course)\n            return redirect('view_course')\n# class ViewCourse(View):\n#     def get(self, request):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewCourse",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class ViewCourse(View):\n    def get(self, request):\n        courses = Course.objects.all()\n        return render(request, 'view_course.html', {'courses': courses})\nclass UpdateCourse(View):\n    def get(self,request,id):\n        course=Course.objects.get(id=id)\n        return render(request,'update_course.html',{'course':course})\n    def post(self,request,id):\n        course_obj=Course.objects.get(id=id)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCourse",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class UpdateCourse(View):\n    def get(self,request,id):\n        course=Course.objects.get(id=id)\n        return render(request,'update_course.html',{'course':course})\n    def post(self,request,id):\n        course_obj=Course.objects.get(id=id)\n        if request.method=='POST':\n            course_obj.course_name=request.POST.get('course')\n            course_obj.save()\n            return redirect('view_course')",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteCourse",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class DeleteCourse(View):\n    def get(self,request,id):\n        course=Course.objects.get(id=id)\n        course.delete()\n        return redirect('view_course')\n#-------------------CRUD on Batch-----------------------------------\nclass BatchPage(View):\n    def get(self,request):\n        return render(request,'batch/batch.html') \nclass AddBatch(View):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "BatchPage",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class BatchPage(View):\n    def get(self,request):\n        return render(request,'batch/batch.html') \nclass AddBatch(View):\n    def get(self,request):\n        return render(request,'batch/add_batch.html')\n    def post(self,request):\n        if request.method=='POST':\n            batch=request.POST.get('batch')\n            batch_obj=Batch.objects.create(batch=batch)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddBatch",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AddBatch(View):\n    def get(self,request):\n        return render(request,'batch/add_batch.html')\n    def post(self,request):\n        if request.method=='POST':\n            batch=request.POST.get('batch')\n            batch_obj=Batch.objects.create(batch=batch)\n            return redirect('view_batch')\nclass ViewBatch(View):\n    def get(self,request):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewBatch",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class ViewBatch(View):\n    def get(self,request):\n        batches=Batch.objects.all()\n        return render(request,'batch/view_batch.html',{'batches':batches})\nclass UpdateBatch(View):\n    def get(self,request,id):\n        batch=Batch.objects.get(id=id)\n        return render(request,'batch/update_batch.html',{'batch':batch})\n    def post(self,request,id):\n        batch_obj=Batch.objects.get(id=id)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateBatch",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class UpdateBatch(View):\n    def get(self,request,id):\n        batch=Batch.objects.get(id=id)\n        return render(request,'batch/update_batch.html',{'batch':batch})\n    def post(self,request,id):\n        batch_obj=Batch.objects.get(id=id)\n        if request.method=='POST':\n            batch_obj.batch=request.POST.get('batch')\n            batch_obj.save()\n            return redirect('view_batch')",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteBatch",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class DeleteBatch(View):\n    def get(self,request,id):\n        batch=Batch.objects.get(id=id)\n        batch.delete()\n        return redirect('view_batch')\n#-----------------Dependend dropdown using Ajax------------------------\nclass LoadStatesView(View):\n    def get(self,request,*args,**kwrags):\n        countryid=request.GET.get('country_id')\n        states=State.objects.filter(country=countryid).all()",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoadStatesView",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class LoadStatesView(View):\n    def get(self,request,*args,**kwrags):\n        countryid=request.GET.get('country_id')\n        states=State.objects.filter(country=countryid).all()\n        print(states)\n        return JsonResponse (list(states.values('id', 'state_name')), safe=False)\nclass LoadCityView(View):\n    def get(self,request,*args,**kwrags):\n        stateid=request.GET.get('state_id')\n        cities=City.objects.filter(state=stateid).all()",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoadCityView",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class LoadCityView(View):\n    def get(self,request,*args,**kwrags):\n        stateid=request.GET.get('state_id')\n        cities=City.objects.filter(state=stateid).all()\n        return JsonResponse(list(cities.values('id', 'city_name')), safe=False)\n#-----------------Teacher CRUD using Modelforms------------------------\nclass TeacherPage(View):\n    def get(self,request):\n        return render(request,'teacher/teachers.html')\nclass AddTeacher(View):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherPage",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class TeacherPage(View):\n    def get(self,request):\n        return render(request,'teacher/teachers.html')\nclass AddTeacher(View):\n    def get(self,request):\n        form=TeacherForm()\n        return render(request,'teacher/add_teacher.html',{'form':form})     \n    def post(self,request):\n        if request.method=='POST':\n            form=TeacherForm(request.POST,request.FILES)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddTeacher",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AddTeacher(View):\n    def get(self,request):\n        form=TeacherForm()\n        return render(request,'teacher/add_teacher.html',{'form':form})     \n    def post(self,request):\n        if request.method=='POST':\n            form=TeacherForm(request.POST,request.FILES)\n            if form.is_valid():\n                name= form.cleaned_data['name']\n                user_name=name.lower().replace('','') # Convert name to lowercase and remove spaces",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeachersList",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class TeachersList(View):\n    def get(self,request):\n        teacher_obj=Teacher.objects.select_related('course','batch','country','state','city').all()\n        return render(request,'teacher/view_teacher.html',{'teachers':teacher_obj})\nclass UpdateTeacher(View):\n    def get(self,request,id):\n        teacher_instance=Teacher.objects.get(id=id)\n        form=TeacherForm(instance=teacher_instance)\n        return render(request,'teacher/update_teacher.html',{'form':form})\n    def post(self,request,id):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTeacher",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class UpdateTeacher(View):\n    def get(self,request,id):\n        teacher_instance=Teacher.objects.get(id=id)\n        form=TeacherForm(instance=teacher_instance)\n        return render(request,'teacher/update_teacher.html',{'form':form})\n    def post(self,request,id):\n        teacher_instance=Teacher.objects.get(id=id)\n        if request.method=='POST':\n            form=TeacherForm(request.POST,request.FILES, instance=teacher_instance)\n            if form.is_valid():",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTeacher",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class DeleteTeacher(View):\n    def get(self,request,id):\n        teacher_instance=Teacher.objects.get(id=id)\n        teacher_instance.delete()\n        return redirect('view_teacher')\n#-----------------Student CRUD using Modelforms------------------------\nclass StudentPage(View):\n    def get(self,request):\n        return render(request,'student/students.html')\nclass AddStudent(View):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentPage",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class StudentPage(View):\n    def get(self,request):\n        return render(request,'student/students.html')\nclass AddStudent(View):\n    def get(self,request):\n        form=StudentForm()\n        return render(request,'student/add_student.html',{'form':form})\n    def post(self,request):\n        if request.method=='POST':\n            form=StudentForm(request.POST,request.FILES)",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddStudent",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AddStudent(View):\n    def get(self,request):\n        form=StudentForm()\n        return render(request,'student/add_student.html',{'form':form})\n    def post(self,request):\n        if request.method=='POST':\n            form=StudentForm(request.POST,request.FILES)\n            if form.is_valid():\n                name= form.cleaned_data['first_name']\n                user_name=name.lower().replace('','') # Convert name to lowercase and remove spaces",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentsList",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class StudentsList(View):\n    def get(self,request):\n        student_obj=Student.objects.select_related('course','batch','country','state','city').all()\n        return render(request,'student/view_student.html',{'students':student_obj})\nclass UpdateStudent(View):\n    def get(self,request,id):\n        student_instance=Student.objects.get(id=id)\n        form=StudentForm(instance=student_instance)\n        return render(request,'student/update_student.html',{'form':form})\n    def post(self,request,id):",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateStudent",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class UpdateStudent(View):\n    def get(self,request,id):\n        student_instance=Student.objects.get(id=id)\n        form=StudentForm(instance=student_instance)\n        return render(request,'student/update_student.html',{'form':form})\n    def post(self,request,id):\n        student_instance=Student.objects.get(id=id)\n        if request.method=='POST':\n            form=StudentForm(request.POST,request.FILES,instance=student_instance)\n            if form.is_valid():",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteStudent",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class DeleteStudent(View):\n    def get(self,request,id):\n        student_instance=Student.objects.get(id=id)\n        student_instance.delete()\n        return redirect('view_student')\n#----------------- Teacher Attendance Report ------------------------\nclass AttendanceReportView(View):\n    def get(self, request):\n        teachers=Teacher.objects.all()\n        return render(request, 'teacherAttendance/attendance_report.html',{'teachers':teachers})",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceReportView",
+        "kind": 6,
+        "importPath": "adminapp.views",
+        "description": "adminapp.views",
+        "peekOfCode": "class AttendanceReportView(View):\n    def get(self, request):\n        teachers=Teacher.objects.all()\n        return render(request, 'teacherAttendance/attendance_report.html',{'teachers':teachers})\n    def post(self, request):\n        teachers=Teacher.objects.all()\n        start_date = parse_date(request.POST.get('start_date'))\n        end_date = parse_date(request.POST.get('end_date'))\n        teacher_id = request.POST.get('teacher_id')\n        if start_date and end_date:",
+        "detail": "adminapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "certificatereportapp.migrations.0001_initial",
+        "description": "certificatereportapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('adminapp', '0004_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Subject',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "certificatereportapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CertificatereportappConfig",
+        "kind": 6,
+        "importPath": "certificatereportapp.apps",
+        "description": "certificatereportapp.apps",
+        "peekOfCode": "class CertificatereportappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'certificatereportapp'",
+        "detail": "certificatereportapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectForm",
+        "kind": 6,
+        "importPath": "certificatereportapp.forms",
+        "description": "certificatereportapp.forms",
+        "peekOfCode": "class SubjectForm(forms.ModelForm):\n    class Meta:\n        model = Subject\n        fields = ['name']\nclass ReportcardForm(forms.ModelForm):\n    class Meta:\n        model = Reportcard\n        fields = ['stuname', 'sub1', 'mark1', 'sub2', 'mark2', 'sub3', 'mark3', 'sub4', 'mark4', 'sub5', 'mark5']\n        widgets = {\n            'sub1': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub1'}),",
+        "detail": "certificatereportapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ReportcardForm",
+        "kind": 6,
+        "importPath": "certificatereportapp.forms",
+        "description": "certificatereportapp.forms",
+        "peekOfCode": "class ReportcardForm(forms.ModelForm):\n    class Meta:\n        model = Reportcard\n        fields = ['stuname', 'sub1', 'mark1', 'sub2', 'mark2', 'sub3', 'mark3', 'sub4', 'mark4', 'sub5', 'mark5']\n        widgets = {\n            'sub1': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub1'}),\n            'sub2': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub2'}),\n            'sub3': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub3'}),\n            'sub4': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub4'}),\n            'sub5': forms.Select(attrs={'class': 'subject-select', 'id': 'id_sub5'}),",
+        "detail": "certificatereportapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Excelform",
+        "kind": 6,
+        "importPath": "certificatereportapp.forms",
+        "description": "certificatereportapp.forms",
+        "peekOfCode": "class Excelform(forms.Form):\n    file=forms.FileField()",
+        "detail": "certificatereportapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Subject",
+        "kind": 6,
+        "importPath": "certificatereportapp.models",
+        "description": "certificatereportapp.models",
+        "peekOfCode": "class Subject(models.Model):\n    name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.name\nclass Reportcard(models.Model):\n    stuname = models.ForeignKey(Student, on_delete=models.CASCADE)\n    sub1 = models.ForeignKey(Subject, related_name='sub1', on_delete=models.CASCADE)\n    mark1 = models.IntegerField()\n    sub2 = models.ForeignKey(Subject, related_name='sub2', on_delete=models.CASCADE)\n    mark2 = models.IntegerField()",
+        "detail": "certificatereportapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reportcard",
+        "kind": 6,
+        "importPath": "certificatereportapp.models",
+        "description": "certificatereportapp.models",
+        "peekOfCode": "class Reportcard(models.Model):\n    stuname = models.ForeignKey(Student, on_delete=models.CASCADE)\n    sub1 = models.ForeignKey(Subject, related_name='sub1', on_delete=models.CASCADE)\n    mark1 = models.IntegerField()\n    sub2 = models.ForeignKey(Subject, related_name='sub2', on_delete=models.CASCADE)\n    mark2 = models.IntegerField()\n    sub3 = models.ForeignKey(Subject, related_name='sub3', on_delete=models.CASCADE)\n    mark3 = models.IntegerField()\n    sub4 = models.ForeignKey(Subject, related_name='sub4', on_delete=models.CASCADE)\n    mark4 = models.IntegerField()",
+        "detail": "certificatereportapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "certificatereportapp.urls",
+        "description": "certificatereportapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('subjects/', SubjectListView.as_view(), name='subject_list'),\n    path('subjectscreate', SubjectCreateView.as_view(), name='subject_create'),\n    path('subjectsupdate/<int:pk>/', SubjectUpdateView.as_view(), name='subject_update'),\n    path('subjectsdelete/<int:pk>/', SubjectDeleteView.as_view(), name='subject_delete'),\n    path('reportlist/',ReportCardListView.as_view(),name='reportcard_list'),\n    path('reportcreate/', ReportCardCreateView.as_view(), name='reportcard_create'),\n    path('reportupdate/<int:pk>/', ReportCardUpdateView.as_view(), name='reportcard_update'),\n    path('reportdelete/<int:pk>/', ReportCardDeleteView.as_view(), name='reportcard_delete'),\n    path('achievement/<int:pk>/', ReportCardView.as_view(), name='achievement_view'),",
+        "detail": "certificatereportapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectListView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class SubjectListView(View):\n    def get(self, request):\n        subjects = Subject.objects.all()\n        return render(request, 'subject/sub_list.html', {'subjects': subjects})\nclass SubjectCreateView(View):\n    def get(self, request):\n        form = SubjectForm()\n        return render(request, 'subject/subject_form.html', {'form': form})\n    def post(self, request):\n        form = SubjectForm(request.POST)",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectCreateView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class SubjectCreateView(View):\n    def get(self, request):\n        form = SubjectForm()\n        return render(request, 'subject/subject_form.html', {'form': form})\n    def post(self, request):\n        form = SubjectForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('subject_list')\n        return render(request, 'subject/subject_form.html', {'form': form})",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectUpdateView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class SubjectUpdateView(View):\n    def get(self, request, pk):\n        subject = Subject.objects.get(pk=pk)\n        form = SubjectForm(instance=subject)\n        return render(request, 'subject/subject_update.html', {'form': form})\n    def post(self, request, pk):\n        subject = Subject.objects.get(pk=pk)\n        form = SubjectForm(request.POST, instance=subject)\n        if form.is_valid():\n            form.save()",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubjectDeleteView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class SubjectDeleteView(View):\n    def get(self, request, pk):\n        subject = Subject.objects.get(pk=pk)\n        subject.delete()\n        return redirect('subject_list')\n# --------------------------------------- Report Card  -------------------------------   \nclass ReportCardListView(View):\n    def get(self, request):\n        reportcards = Reportcard.objects.all()\n        return render(request, 'reportcard/report_list.html', {'reportcards': reportcards})",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCardListView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ReportCardListView(View):\n    def get(self, request):\n        reportcards = Reportcard.objects.all()\n        return render(request, 'reportcard/report_list.html', {'reportcards': reportcards})\nclass ReportCardCreateView(View):\n    def get(self, request):\n        form = ReportcardForm()\n        return render(request, 'reportcard/report_form.html', {'form': form})\n    def post(self, request):\n        form = ReportcardForm(request.POST)",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCardCreateView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ReportCardCreateView(View):\n    def get(self, request):\n        form = ReportcardForm()\n        return render(request, 'reportcard/report_form.html', {'form': form})\n    def post(self, request):\n        form = ReportcardForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('reportcard_list')\n        return render(request, 'reportcard/report_form.html', {'form': form})",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCardUpdateView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ReportCardUpdateView(View):\n    def get(self, request, pk):\n        reportcard = Reportcard.objects.get(pk=pk)\n        form = ReportcardForm(instance=reportcard)\n        return render(request, 'reportcard/report_form.html', {'form': form, 'reportcard': reportcard})\n    def post(self, request, pk):\n        reportcard = Reportcard.objects.get(pk=pk)\n        form = ReportcardForm(request.POST, instance=reportcard)\n        if form.is_valid():\n            form.save()",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCardDeleteView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ReportCardDeleteView(View):\n    def get(self, request, pk):\n        reportcard = Reportcard.objects.get(pk=pk)\n        reportcard.delete()\n        return redirect('reportcard_list')\nclass ReportCardView(View):\n    def get(self, request, pk):\n        reportcard = Reportcard.objects.get(pk=pk)\n        context = {\n            'student_name': reportcard.stuname.first_name,",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReportCardView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ReportCardView(View):\n    def get(self, request, pk):\n        reportcard = Reportcard.objects.get(pk=pk)\n        context = {\n            'student_name': reportcard.stuname.first_name,\n            'total_marks': reportcard.total_marks(),\n            'total_grade':reportcard.total_grade(),\n            'performance': reportcard.performance(),\n        }\n        return render(request, 'reportcard/reportcard.html', context)",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentListView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class StudentListView(View):\n    def get(self, request):\n        students = Student.objects.all()\n        context = {'students': students}\n        return render(request, 'student/studentlist.html', context)\nclass GenerateCertificateView(View):\n    def get(self, request, student_id):\n        student = Student.objects.get(id=student_id)\n        response = HttpResponse(content_type='application/pdf')\n        response['Content-Disposition'] = f'attachment; filename=\"{student.first_name}_{student.last_name}_certificate.pdf\"'",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "GenerateCertificateView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class GenerateCertificateView(View):\n    def get(self, request, student_id):\n        student = Student.objects.get(id=student_id)\n        response = HttpResponse(content_type='application/pdf')\n        response['Content-Disposition'] = f'attachment; filename=\"{student.first_name}_{student.last_name}_certificate.pdf\"'\n        p = canvas.Canvas(response, pagesize=letter)\n        width, height = letter\n        p.setFont(\"Helvetica\", 12)\n        # Draw the certificate content\n        # p.drawString(200, height - 50, \"Course Completion Certificate\")",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ImportDataView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ImportDataView(View):\n    def get(self, request):\n        form = Excelform()\n        return render(request, 'excel/excel_upload.html', {'form': form})\n    def post(self, request):\n        form = Excelform(request.POST, request.FILES)\n        if form.is_valid():\n            if 'file' not in request.FILES:\n                messages.error(request, \"No file uploaded!\")\n                return render(request, 'excel/excel_upload.html', {'form': form})",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExportToExcelView",
+        "kind": 6,
+        "importPath": "certificatereportapp.views",
+        "description": "certificatereportapp.views",
+        "peekOfCode": "class ExportToExcelView(View):\n    def get(self, request, *args, **kwargs):\n        # Create a workbook and select the active worksheet\n        wb = Workbook()\n        ws = wb.active\n        ws.title = \"Excel Upload Data\"\n        # Define the headers\n        headers = ['stuname', 'sub1', 'mark1','sub2','mark2','sub3','mark3','sub4','mark4','sub5','mark5']\n        ws.append(headers)\n        # Fetch the data from the database",
+        "detail": "certificatereportapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chatapp.migrations.0001_initial",
+        "description": "chatapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Room',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('room_name', models.CharField(max_length=50)),",
+        "detail": "chatapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chatapp.migrations.0002_delete_message_delete_room",
+        "description": "chatapp.migrations.0002_delete_message_delete_room",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('chatapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Message',\n        ),\n        migrations.DeleteModel(\n            name='Room',",
+        "detail": "chatapp.migrations.0002_delete_message_delete_room",
+        "documentation": {}
+    },
+    {
+        "label": "ChatappConfig",
+        "kind": 6,
+        "importPath": "chatapp.apps",
+        "description": "chatapp.apps",
+        "peekOfCode": "class ChatappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'chatapp'",
+        "detail": "chatapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConsumer",
+        "kind": 6,
+        "importPath": "chatapp.consumers",
+        "description": "chatapp.consumers",
+        "peekOfCode": "class ChatConsumer(WebsocketConsumer):\n    def connect(self):\n        self.room_group_name = 'test'\n        async_to_sync(self.channel_layer.group_add)(\n            self.room_group_name,\n            self.channel_name\n        )\n        self.accept()\n    def receive(self, text_data):\n        text_data_json = json.loads(text_data)",
+        "detail": "chatapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "kind": 5,
+        "importPath": "chatapp.routing",
+        "description": "chatapp.routing",
+        "peekOfCode": "websocket_urlpatterns = [\n    re_path(r'ws/socket-server/$', consumers.ChatConsumer.as_asgi()),\n]",
+        "detail": "chatapp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chatapp.urls",
+        "description": "chatapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',Chat.as_view(), name='chat'),\n]",
+        "detail": "chatapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "kind": 6,
+        "importPath": "chatapp.views",
+        "description": "chatapp.views",
+        "peekOfCode": "class Chat(View):\n    def get(self,request):\n        return render(request,'chat/chat.html')",
+        "detail": "chatapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0001_initial",
+        "description": "communicationapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('adminapp', '0004_student'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Announcement',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "communicationapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0002_remove_announcement_batch_remove_announcement_course_and_more",
+        "description": "communicationapp.migrations.0002_remove_announcement_batch_remove_announcement_course_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('communicationapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='announcement',\n            name='batch',\n        ),\n        migrations.RemoveField(",
+        "detail": "communicationapp.migrations.0002_remove_announcement_batch_remove_announcement_course_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0003_announcement_expiry_date",
+        "description": "communicationapp.migrations.0003_announcement_expiry_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('communicationapp', '0002_remove_announcement_batch_remove_announcement_course_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='announcement',\n            name='expiry_date',\n            field=models.DateField(null=True),\n        ),",
+        "detail": "communicationapp.migrations.0003_announcement_expiry_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0004_notifications",
+        "description": "communicationapp.migrations.0004_notifications",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('communicationapp', '0003_announcement_expiry_date'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Notifications',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "communicationapp.migrations.0004_notifications",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0005_alter_notifications_posted_date_and_more",
+        "description": "communicationapp.migrations.0005_alter_notifications_posted_date_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('communicationapp', '0004_notifications'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='notifications',\n            name='posted_date',\n            field=models.DateField(),",
+        "detail": "communicationapp.migrations.0005_alter_notifications_posted_date_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0006_alter_notifications_expiry_date",
+        "description": "communicationapp.migrations.0006_alter_notifications_expiry_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('communicationapp', '0005_alter_notifications_posted_date_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='notifications',\n            name='expiry_date',\n            field=models.DateField(blank=True, null=True),\n        ),",
+        "detail": "communicationapp.migrations.0006_alter_notifications_expiry_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "communicationapp.migrations.0007_alter_notifications_posted_date",
+        "description": "communicationapp.migrations.0007_alter_notifications_posted_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('communicationapp', '0006_alter_notifications_expiry_date'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='notifications',\n            name='posted_date',\n            field=models.DateField(default=django.utils.timezone.now),\n        ),",
+        "detail": "communicationapp.migrations.0007_alter_notifications_posted_date",
+        "documentation": {}
+    },
+    {
+        "label": "CommunicationappConfig",
+        "kind": 6,
+        "importPath": "communicationapp.apps",
+        "description": "communicationapp.apps",
+        "peekOfCode": "class CommunicationappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'communicationapp'",
+        "detail": "communicationapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementForm",
+        "kind": 6,
+        "importPath": "communicationapp.forms",
+        "description": "communicationapp.forms",
+        "peekOfCode": "class AnnouncementForm(forms.ModelForm):\n    class Meta:\n        model = Announcement\n        fields = ['title', 'message','expiry_date']\n        widgets = {\n            'title': forms.TextInput(attrs={'class': 'form-control'}),\n            'message': forms.Textarea(attrs={'class': 'form-control', 'rows': 3}),\n        }\nclass NotificationForm(forms.ModelForm):\n    class Meta:",
+        "detail": "communicationapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationForm",
+        "kind": 6,
+        "importPath": "communicationapp.forms",
+        "description": "communicationapp.forms",
+        "peekOfCode": "class NotificationForm(forms.ModelForm):\n    class Meta:\n        model = Notifications\n        fields='__all__'",
+        "detail": "communicationapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Announcement",
+        "kind": 6,
+        "importPath": "communicationapp.models",
+        "description": "communicationapp.models",
+        "peekOfCode": "class Announcement(models.Model):\n    title = models.CharField(max_length=200)\n    message = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    expiry_date=models.DateField(null=True)\n    def __str__(self):\n        return self.title\nclass Notifications(models.Model):\n    teacher=models.ForeignKey(Teacher,on_delete=models.CASCADE,related_name='teacher',null=True,blank=True)\n    title=models.CharField(max_length=250)",
+        "detail": "communicationapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notifications",
+        "kind": 6,
+        "importPath": "communicationapp.models",
+        "description": "communicationapp.models",
+        "peekOfCode": "class Notifications(models.Model):\n    teacher=models.ForeignKey(Teacher,on_delete=models.CASCADE,related_name='teacher',null=True,blank=True)\n    title=models.CharField(max_length=250)\n    message=models.CharField(max_length=500)\n    document=models.FileField(upload_to='notifications/',null=True,blank=True)\n    posted_date=models.DateField(default=timezone.now)\n    expiry_date=models.DateField(null=True, blank=True)\n    def __str__(self) -> str:\n        return f'Notification--{self.title}'",
+        "detail": "communicationapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "communicationapp.urls",
+        "description": "communicationapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('announcements/', AnnouncementListView.as_view(), name='announcement_list'),\n    path('announcement/create/', AnnouncementCreateView.as_view(), name='announcement_create'),\n    path('announcement/<int:pk>/', AnnouncementDetailView.as_view(), name='announcement_detail'),\n    path('announcement/<int:pk>/update/', AnnouncementUpdateView.as_view(), name='announcement_update'),\n    path('announcement/<int:pk>/delete/', AnnouncementDeleteView.as_view(), name='announcement_delete'),\n    path('announcementdasgboard',AnnouncementsDahboardListView.as_view(),name='announcement_dashboard'),\n    path('notifications/', NotificationView.as_view(), name='notifications'),\n    path('notificationsCreate/', CreateNotificationView.as_view(), name='create_notification'),\n    path('notificationsUpdate/<int:pk>/', UpdateNotificationView.as_view(), name='update_notification'),",
+        "detail": "communicationapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementListView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementListView(View):\n    def get(self, request):\n        announcements = Announcement.objects.all()\n        return render(request, 'announcements/announcements.html', {'announcements': announcements})\nclass AnnouncementCreateView(View):\n    def get(self, request):\n        form = AnnouncementForm()\n        return render(request, 'announcements/create_announcement.html', {'form': form})\n    def post(self, request):\n        form = AnnouncementForm(request.POST)",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementCreateView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementCreateView(View):\n    def get(self, request):\n        form = AnnouncementForm()\n        return render(request, 'announcements/create_announcement.html', {'form': form})\n    def post(self, request):\n        form = AnnouncementForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('announcement_list')\n        return render(request, 'announcements/create_announcement.html', {'form': form})",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementDetailView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementDetailView(View):\n    def get(self, request, pk):\n        announcement = Announcement.objects.get(pk=pk)\n        return render(request, 'announcements/announcement_detail.html', {'announcement': announcement})\nclass AnnouncementUpdateView(View):\n    def get(self, request, pk):\n        announcement = Announcement.objects.get(pk=pk)\n        form = AnnouncementForm(instance=announcement)\n        return render(request, 'announcements/update_announcement.html', {'form': form, 'announcement': announcement})\n    def post(self, request, pk):",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementUpdateView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementUpdateView(View):\n    def get(self, request, pk):\n        announcement = Announcement.objects.get(pk=pk)\n        form = AnnouncementForm(instance=announcement)\n        return render(request, 'announcements/update_announcement.html', {'form': form, 'announcement': announcement})\n    def post(self, request, pk):\n        announcement = Announcement.objects.get(pk=pk)\n        form = AnnouncementForm(request.POST, instance=announcement)\n        if form.is_valid():\n            form.save()",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementDeleteView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementDeleteView(View):\n    def get(self, request, pk):\n        announcement = Announcement.objects.get(pk=pk)\n        announcement.delete()\n        return redirect('announcement_list')\nclass AnnouncementsDahboardListView(View):\n    def get(self, request):\n        today=timezone.now().date()\n        announcements = Announcement.objects.filter(expiry_date__gte=today)\n        return render(request, 'dashboard_announcement.html', {'announcements': announcements})",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementsDahboardListView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class AnnouncementsDahboardListView(View):\n    def get(self, request):\n        today=timezone.now().date()\n        announcements = Announcement.objects.filter(expiry_date__gte=today)\n        return render(request, 'dashboard_announcement.html', {'announcements': announcements})\n#---------------------------------------- Notification ---------------------------------------\nclass NotificationView(View):\n    def get(self, request):\n        # Check if the user is authenticated\n        if not request.user.is_authenticated:",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class NotificationView(View):\n    def get(self, request):\n        # Check if the user is authenticated\n        if not request.user.is_authenticated:\n            return redirect('login')  # Redirect to the login page if the user is not authenticated\n        student = request.user\n        # Fetch student entity\n        try:\n            stud_ent = Student.objects.get(username=student.username, email=student.email)\n        except Student.DoesNotExist:",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CreateNotificationView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class CreateNotificationView(View):\n    def get(self, request):\n        # Instantiate the NotificationForm to render the form in the template\n        form = NotificationForm()\n        return render(request, 'notifications/create_notification.html', {'form': form})\n    def post(self, request):\n        form = NotificationForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return HttpResponse('Success')",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateNotificationView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class UpdateNotificationView(View):\n    def get(self, request, pk):\n        notification = get_object_or_404(Notifications, pk=pk)\n        form = NotificationForm(instance=notification)\n        return render(request, 'notifications/update_notification.html', {'form': form, 'notification': notification})\n    def post(self, request, pk):\n        notification = get_object_or_404(Notifications, pk=pk)\n        form = NotificationForm(request.POST, instance=notification)\n        if form.is_valid():\n            form.save()",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteNotificationView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class DeleteNotificationView(View):\n    def get(self, request, pk):\n        if not request.user.is_authenticated:\n            return redirect('teacherapp:teacher_login')  # Redirect to login page if the user is not authenticated\n        notification = get_object_or_404(Notifications, pk=pk)\n        return render(request, 'notifications/delete_notification.html', {'notification': notification})\n    def post(self, request, pk):\n        if not request.user.is_authenticated:\n            return redirect('teacherapp:teacher_login')  # Redirect to login page if the user is not authenticated\n        notification = get_object_or_404(Notifications, pk=pk)",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationTeacherView",
+        "kind": 6,
+        "importPath": "communicationapp.views",
+        "description": "communicationapp.views",
+        "peekOfCode": "class NotificationTeacherView(View):\n    def get(self, request, id):\n        try:\n            teacher = Teacher.objects.get(id=id)\n        except Teacher.DoesNotExist:\n            # Return an HttpResponse with the error message\n            return HttpResponse('Teacher not found', status=404)\n        # Fetch notifications for the specific teacher or for all (teacher=null)\n        notifications = Notifications.objects.filter(Q(teacher=teacher) | Q(teacher__isnull=True))\n        # Render the template with the teacher and notifications",
+        "detail": "communicationapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "imageapp.migrations.0001_initial",
+        "description": "imageapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UploadedImage',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('image', models.ImageField(upload_to='images/')),",
+        "detail": "imageapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ImageappConfig",
+        "kind": 6,
+        "importPath": "imageapp.apps",
+        "description": "imageapp.apps",
+        "peekOfCode": "class ImageappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'imageapp'",
+        "detail": "imageapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ImageForm",
+        "kind": 6,
+        "importPath": "imageapp.forms",
+        "description": "imageapp.forms",
+        "peekOfCode": "class ImageForm(forms.ModelForm):\n    class Meta:\n        model=UploadedImage\n        fields=['image']",
+        "detail": "imageapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UploadedImage",
+        "kind": 6,
+        "importPath": "imageapp.models",
+        "description": "imageapp.models",
+        "peekOfCode": "class UploadedImage(models.Model):\n    image = models.ImageField(upload_to='images/')\n    uploaded_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.image.name",
+        "detail": "imageapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "imageapp.urls",
+        "description": "imageapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('upload/', CreateImage.as_view(), name='upload_image'),\n    path('view/', ViewImage.as_view(), name='view_image'),\n]",
+        "detail": "imageapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CreateImage",
+        "kind": 6,
+        "importPath": "imageapp.views",
+        "description": "imageapp.views",
+        "peekOfCode": "class CreateImage(View):\n    def get(self,request):\n        form=ImageForm()\n        return render(request,'image/image_upload.html',{'form':form})\n    def post(self,request):\n        form=ImageForm(request.POST,request.FILES)\n        if form.is_valid():\n            form.save()\n            return HttpResponse('Success image is uploaded')\n        else:",
+        "detail": "imageapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewImage",
+        "kind": 6,
+        "importPath": "imageapp.views",
+        "description": "imageapp.views",
+        "peekOfCode": "class ViewImage(View):\n    def get(self,request):\n        image=UploadedImage.objects.all()\n        return render(request,'image/image_view.html',{'image':image})",
+        "detail": "imageapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "schoolproject.asgi",
+        "description": "schoolproject.asgi",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    'http':get_asgi_application(),\n    'websocket':AuthMiddlewareStack(\n        URLRouter(\n            chatapp.routing.websocket_urlpatterns\n        )\n    )\n})",
+        "detail": "schoolproject.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-fx9nd=dphk=shbsn6)7q%^qq2j8t7&rq!q1m%r0z7&0nj3wrx%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-fx9nd=dphk=shbsn6)7q%^qq2j8t7&rq!q1m%r0z7&0nj3wrx%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'adminapp',\n    'teacherapp',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INTERNAL_IPS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "INTERNAL_IPS = [\n    # ...\n    \"127.0.0.1\",\n    # ...\n]\nASGI_APPLICATION = 'schoolproject.asgi.application'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    \"debug_toolbar.middleware.DebugToolbarMiddleware\",\n    'django.contrib.sessions.middleware.SessionMiddleware',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASGI_APPLICATION",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "ASGI_APPLICATION = 'schoolproject.asgi.application'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    \"debug_toolbar.middleware.DebugToolbarMiddleware\",\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    \"debug_toolbar.middleware.DebugToolbarMiddleware\",\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "ROOT_URLCONF = 'schoolproject.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,\"templates\")],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR,\"templates\")],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'schoolproject.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587  # Port for TLS",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587  # Port for TLS\nEMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587  # Port for TLS\nEMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587  # Port for TLS\nEMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_PORT = 587  # Port for TLS\nEMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_PORT = 587  # Port for TLS\nEMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'shafnashani2636@gmail.com'  # Your Gmail address\nEMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'kved kunu qorz qyhp'  # Your Gmail password\nEMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_SSL",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "EMAIL_USE_SSL = False\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}\n# CACHES = {",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nRECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}\n# CACHES = {\n#     'default': {",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RECAPTCHA_PUBLIC_KEY",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "RECAPTCHA_PUBLIC_KEY = '6Lf-ThAqAAAAAC9ep4_iwsjOIprviOSE3kX6Ni1n'\nRECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}\n# CACHES = {\n#     'default': {\n#         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "RECAPTCHA_PRIVATE_KEY",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "RECAPTCHA_PRIVATE_KEY = '6Lf-ThAqAAAAAG7cyh8fLXNZc6N488zUr_SQ5syv'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}\n# CACHES = {\n#     'default': {\n#         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',\n#         'LOCATION': 'C:\\django_cache',",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_LAYERS",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "CHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',  # Example backend, replace with your actual backend\n    },\n}\n# CACHES = {\n#     'default': {\n#         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',\n#         'LOCATION': 'C:\\django_cache',\n#     }",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CACHES",
+        "kind": 5,
+        "importPath": "schoolproject.settings",
+        "description": "schoolproject.settings",
+        "peekOfCode": "CACHES = {\n    \"default\": {\n        \"BACKEND\": \"django_redis.cache.RedisCache\",\n        \"LOCATION\": \"redis://127.0.0.1:6379/1\",\n        \"OPTIONS\": {\n            \"CLIENT_CLASS\": \"django_redis.client.DefaultClient\",\n        }\n    }\n}",
+        "detail": "schoolproject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "schoolproject.urls",
+        "description": "schoolproject.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('adminapp.urls')),\n    path('teacherapp/',include('teacherapp.urls')),\n    path('studentapp/',include('studentapp.urls')),\n    path('certificatereportapp/',include('certificatereportapp.urls')),\n    path('communicationapp/', include('communicationapp.urls')),\n    path('imageapp/',include('imageapp.urls')),\n    path('chatapp/',include('chatapp.urls')),\n    path(\"__debug__/\", include(\"debug_toolbar.urls\")),",
+        "detail": "schoolproject.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "schoolproject.wsgi",
+        "description": "schoolproject.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "schoolproject.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_name",
+        "kind": 2,
+        "importPath": "studentapp.templatetags.customtag",
+        "description": "studentapp.templatetags.customtag",
+        "peekOfCode": "def get_file_name(id):\n    upload_file=CourseMaterial.objects.get(id=id)\n    return upload_file.title",
+        "detail": "studentapp.templatetags.customtag",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "studentapp.templatetags.customtag",
+        "description": "studentapp.templatetags.customtag",
+        "peekOfCode": "register = template.Library()\n@register.simple_tag\ndef get_file_name(id):\n    upload_file=CourseMaterial.objects.get(id=id)\n    return upload_file.title",
+        "detail": "studentapp.templatetags.customtag",
+        "documentation": {}
+    },
+    {
+        "label": "StudentappConfig",
+        "kind": 6,
+        "importPath": "studentapp.apps",
+        "description": "studentapp.apps",
+        "peekOfCode": "class StudentappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'studentapp'",
+        "detail": "studentapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "StudentLoginForm",
+        "kind": 6,
+        "importPath": "studentapp.forms",
+        "description": "studentapp.forms",
+        "peekOfCode": "class StudentLoginForm(forms.Form):\n    username = forms.CharField(max_length=150)\n    password = forms.CharField(widget=forms.PasswordInput)\n    captcha=ReCaptchaField(widget=ReCaptchaV3)",
+        "detail": "studentapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "studentapp.urls",
+        "description": "studentapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('studentlogin',StudentLogin.as_view(),name='student_login'),\n    path('studentprofile',StudentProfile.as_view(),name='student_profile'),\n    path('Remainder/', NotificationReminder.as_view(), name='notification_reminder'),\n    path('announcementstudent/', AnnouncementView.as_view(), name='announcement_student'),\n    path('studentlogout',StudentLogout.as_view(),name='student_logout'),\n    path('password_reset/', auth_view.PasswordResetView.as_view(),name='password_reset'),\n    path('password_reset_done/',auth_view.PasswordResetDoneView.as_view(),name='password_reset_done'),\n    path('password_reset_confirm/<uidb64>/<token>/',auth_view.PasswordResetConfirmView.as_view(),name='password_reset_confirm'),\n    path('password_reset_complete/',auth_view.PasswordResetCompleteView.as_view(),name='password_reset_complete'),",
+        "detail": "studentapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StudentLogin",
+        "kind": 6,
+        "importPath": "studentapp.views",
+        "description": "studentapp.views",
+        "peekOfCode": "class StudentLogin(View):\n    def get(self,request):\n        form=StudentLoginForm()\n        return render(request,'student/studentlogin.html',{'form':form})\n    def post(self,request):\n        if request.method=='POST':\n            form=StudentLoginForm(request.POST)\n            if form.is_valid():\n                username=form.cleaned_data['username']\n                password=form.cleaned_data['password']",
+        "detail": "studentapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentProfile",
+        "kind": 6,
+        "importPath": "studentapp.views",
+        "description": "studentapp.views",
+        "peekOfCode": "class StudentProfile(View):\n    def get(self,request):\n        student = request.user\n        # Fetching student's details\n        stud_ent = Student.objects.get(username=student.username, email=student.email)\n        print(f'hhhhhh{stud_ent.course},{stud_ent.batch}')\n        s_course = stud_ent.course\n        s_batch = stud_ent.batch\n        # Fetching notifications related to the student's course and batch\n        today = date.today()",
+        "detail": "studentapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentLogout",
+        "kind": 6,
+        "importPath": "studentapp.views",
+        "description": "studentapp.views",
+        "peekOfCode": "class StudentLogout(View):\n    def get(self,request):\n        logout(request)\n        return redirect('studentapp:student_login')\n#----------------------------------------Announcement view--------------------------\nclass AnnouncementView(View):\n    def get(self,request):\n        announcements=Announcement.objects.all()\n        return render(request,'student/announcement_view.html',{'announcements':announcements}) \n#----------------------------------------Notification Reminder for students--------------------------",
+        "detail": "studentapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AnnouncementView",
+        "kind": 6,
+        "importPath": "studentapp.views",
+        "description": "studentapp.views",
+        "peekOfCode": "class AnnouncementView(View):\n    def get(self,request):\n        announcements=Announcement.objects.all()\n        return render(request,'student/announcement_view.html',{'announcements':announcements}) \n#----------------------------------------Notification Reminder for students--------------------------\nclass NotificationReminder(View):\n    def get(self, request):\n        student = request.user\n        # Fetching student's details\n        stud_ent = Student.objects.get(username=student.username, email=student.email)",
+        "detail": "studentapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationReminder",
+        "kind": 6,
+        "importPath": "studentapp.views",
+        "description": "studentapp.views",
+        "peekOfCode": "class NotificationReminder(View):\n    def get(self, request):\n        student = request.user\n        # Fetching student's details\n        stud_ent = Student.objects.get(username=student.username, email=student.email)\n        s_course = stud_ent.course\n        s_batch = stud_ent.batch\n        # Fetching notifications related to the student's course and batch\n        today = date.today()\n        teacher = Teacher.objects.get(course=s_course, batch=s_batch)",
+        "detail": "studentapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0001_initial",
+        "description": "teacherapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CourseMaterial',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100)),",
+        "detail": "teacherapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0002_coursematerial_batch_coursematerial_course",
+        "description": "teacherapp.migrations.0002_coursematerial_batch_coursematerial_course",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('teacherapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='coursematerial',\n            name='batch',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='adminapp.batch'),",
+        "detail": "teacherapp.migrations.0002_coursematerial_batch_coursematerial_course",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0003_remove_coursematerial_uploaded_at_achievement",
+        "description": "teacherapp.migrations.0003_remove_coursematerial_uploaded_at_achievement",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('teacherapp', '0002_coursematerial_batch_coursematerial_course'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='coursematerial',\n            name='uploaded_at',\n        ),",
+        "detail": "teacherapp.migrations.0003_remove_coursematerial_uploaded_at_achievement",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0004_teacherattendance",
+        "description": "teacherapp.migrations.0004_teacherattendance",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('teacherapp', '0003_remove_coursematerial_uploaded_at_achievement'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='TeacherAttendance',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "teacherapp.migrations.0004_teacherattendance",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0005_remove_teacherattendance_afternoon_attendance_and_more",
+        "description": "teacherapp.migrations.0005_remove_teacherattendance_afternoon_attendance_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('teacherapp', '0004_teacherattendance'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='teacherattendance',\n            name='afternoon_attendance',\n        ),",
+        "detail": "teacherapp.migrations.0005_remove_teacherattendance_afternoon_attendance_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0006_remove_teacherattendance_remarks",
+        "description": "teacherapp.migrations.0006_remove_teacherattendance_remarks",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('teacherapp', '0005_remove_teacherattendance_afternoon_attendance_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='teacherattendance',\n            name='remarks',\n        ),\n    ]",
+        "detail": "teacherapp.migrations.0006_remove_teacherattendance_remarks",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0007_alter_achievement_student",
+        "description": "teacherapp.migrations.0007_alter_achievement_student",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('adminapp', '0004_student'),\n        ('teacherapp', '0006_remove_teacherattendance_remarks'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='achievement',\n            name='student',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='student', to='adminapp.student'),",
+        "detail": "teacherapp.migrations.0007_alter_achievement_student",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "teacherapp.migrations.0008_delete_achievement",
+        "description": "teacherapp.migrations.0008_delete_achievement",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('teacherapp', '0007_alter_achievement_student'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Achievement',\n        ),\n    ]",
+        "detail": "teacherapp.migrations.0008_delete_achievement",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherappConfig",
+        "kind": 6,
+        "importPath": "teacherapp.apps",
+        "description": "teacherapp.apps",
+        "peekOfCode": "class TeacherappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'teacherapp'",
+        "detail": "teacherapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherLoginForm",
+        "kind": 6,
+        "importPath": "teacherapp.forms",
+        "description": "teacherapp.forms",
+        "peekOfCode": "class TeacherLoginForm(forms.ModelForm):\n    captcha=ReCaptchaField(widget=ReCaptchaV3)\n    class Meta:\n        model=Teacher\n        fields=['username','password','captcha']\nclass CourseMaterialForm(forms.ModelForm):\n    class Meta:\n        model = CourseMaterial\n        fields = ['title', 'file','batch','course']\nclass TeacherAttendanceForm(forms.ModelForm):",
+        "detail": "teacherapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterialForm",
+        "kind": 6,
+        "importPath": "teacherapp.forms",
+        "description": "teacherapp.forms",
+        "peekOfCode": "class CourseMaterialForm(forms.ModelForm):\n    class Meta:\n        model = CourseMaterial\n        fields = ['title', 'file','batch','course']\nclass TeacherAttendanceForm(forms.ModelForm):\n    class Meta:\n        model = TeacherAttendance\n        fields = ['date', 'teacher_name', 'arrival_time', 'departure_time', 'break_start_time', 'break_end_time']",
+        "detail": "teacherapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAttendanceForm",
+        "kind": 6,
+        "importPath": "teacherapp.forms",
+        "description": "teacherapp.forms",
+        "peekOfCode": "class TeacherAttendanceForm(forms.ModelForm):\n    class Meta:\n        model = TeacherAttendance\n        fields = ['date', 'teacher_name', 'arrival_time', 'departure_time', 'break_start_time', 'break_end_time']",
+        "detail": "teacherapp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterial",
+        "kind": 6,
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "peekOfCode": "class CourseMaterial(models.Model):\n    title = models.CharField(max_length=100)\n    file = models.FileField(upload_to='course_materials/')\n    course=models.ForeignKey(Course,on_delete=models.CASCADE,null=True)\n    batch=models.ForeignKey(Batch,on_delete=models.CASCADE,null=True)\nclass TeacherAttendance(models.Model):\n    date = models.DateField(null=True)\n    teacher_name = models.ForeignKey(Teacher, on_delete=models.CASCADE,null=True)\n    arrival_time = models.TimeField(null=True)\n    departure_time = models.TimeField(null=True)",
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAttendance",
+        "kind": 6,
+        "importPath": "teacherapp.models",
+        "description": "teacherapp.models",
+        "peekOfCode": "class TeacherAttendance(models.Model):\n    date = models.DateField(null=True)\n    teacher_name = models.ForeignKey(Teacher, on_delete=models.CASCADE,null=True)\n    arrival_time = models.TimeField(null=True)\n    departure_time = models.TimeField(null=True)\n    break_start_time = models.TimeField(null=True)\n    break_end_time = models.TimeField(null=True)\n    def get_total_working_hours(self):\n        \"\"\"\n        Calculate the total working hours excluding break time.",
+        "detail": "teacherapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherLogin",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class TeacherLogin(View):\n    def get(self,request):\n        form=TeacherLoginForm()\n        return render(request,'teacher/teacherlogin.html',{'form':form})\n    def post(self,request):\n        if request.method=='POST':\n            form=TeacherLoginForm(request.POST)\n            if form.is_valid():\n                username = form.cleaned_data['username']\n                password = form.cleaned_data['password']",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherProfile",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class TeacherProfile(View):\n    def get(self,request):\n        return render(request,'teacher/teacher_profile.html')\nclass TeacherLogout(View):\n    def get(self,request):\n        logout(request)\n        return redirect('teacherapp:teacher_login')\nclass PasswordResetManually(View):\n    def get(self,request,id):\n        return render(request,'teacher/password_reset_manually.html')",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherLogout",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class TeacherLogout(View):\n    def get(self,request):\n        logout(request)\n        return redirect('teacherapp:teacher_login')\nclass PasswordResetManually(View):\n    def get(self,request,id):\n        return render(request,'teacher/password_reset_manually.html')\n    def post(self,request,id):\n        msg=''\n        teacher_obj=Teacher.objects.get(id=id)",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetManually",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class PasswordResetManually(View):\n    def get(self,request,id):\n        return render(request,'teacher/password_reset_manually.html')\n    def post(self,request,id):\n        msg=''\n        teacher_obj=Teacher.objects.get(id=id)\n        if request.method=='POST':\n            old_password=request.POST.get('old_password')\n            new_password=request.POST.get('new_password')\n            confirm_password=request.POST.get('confirm_password')",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginEmailOtp",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class LoginEmailOtp(View):\n    def get(self, request):\n        return render(request, 'teacher/otp.html')\n    def post(self, request):\n        if request.method == 'POST':\n            email = request.POST.get('email')\n            print(email)\n            teacher = Teacher.objects.get(email=email)\n            # checking wheather teacher exist in given username and password\n            if teacher is not None:",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "OtpVerification",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class OtpVerification(View):\n    def get(self, request):\n        return render(request, 'teacher/otp_verification.html')\n    def post(self, request):\n        if request.method == 'POST':\n            otp_entered = request.POST.get('otp')\n            otp_session = request.session.get('otp')\n            if otp_session:\n                saved_otp = otp_session.get('code')\n                expiry_time = otp_session.get('expiration_time_string')",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCourseMaterial",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class AddCourseMaterial(View):\n    def get(self, request):\n        form = CourseMaterialForm()\n        return render(request, 'uploadfiles/add_course_material.html', {'form': form})\n    def post(self, request):\n        form = CourseMaterialForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('teacherapp:course_material_list')\n        else:",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseMaterialList",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class CourseMaterialList(View):\n    def get(self, request):\n        materials = CourseMaterial.objects.all()\n        print(materials)\n        return render(request, 'uploadfiles/course_material_list.html', {'materials': materials})\nclass UpdateCourseMaterial(View):\n    def get(self, request, id):\n        material = CourseMaterial.objects.get(id=id)\n        form = CourseMaterialForm(instance=material)\n        return render(request, 'uploadfiles/update_course_material.html', {'form': form})",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCourseMaterial",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class UpdateCourseMaterial(View):\n    def get(self, request, id):\n        material = CourseMaterial.objects.get(id=id)\n        form = CourseMaterialForm(instance=material)\n        return render(request, 'uploadfiles/update_course_material.html', {'form': form})\n    def post(self, request, id):\n        material = CourseMaterial.objects.get(id=id)\n        form = CourseMaterialForm(request.POST, request.FILES, instance=material)\n        if form.is_valid():\n            form.save()",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteCourseMaterial",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class DeleteCourseMaterial(View):\n    def get(self, request, id):\n        material_obj = CourseMaterial.objects.get(id=id)\n        material_obj.delete()\n        return redirect('teacherapp:course_material_list')\n# --------------------------------------- Teacher Attendance  -------------------------------\nclass MarkAttendanceView(View):\n    def get(self, request):\n        form = TeacherAttendanceForm()\n        return render(request, 'teacherAttendance/mark_attendance.html', {'form': form})",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "MarkAttendanceView",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class MarkAttendanceView(View):\n    def get(self, request):\n        form = TeacherAttendanceForm()\n        return render(request, 'teacherAttendance/mark_attendance.html', {'form': form})\n    def post(self, request):\n        form = TeacherAttendanceForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('attendance-success')\n        return render(request, 'teacherAttendance/mark_attendance.html', {'form': form})",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceSuccessView",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class AttendanceSuccessView(View):\n    def get(self, request):\n        attendances=TeacherAttendance.objects.all()\n        return render(request, 'teacherAttendance/attendance_success.html',{'attendances':attendances})\nclass UpdateAttendanceView(View):\n    def get(self, request, pk):\n        attendance = TeacherAttendance.objects.get( pk=pk)\n        form = TeacherAttendanceForm(instance=attendance)\n        return render(request, 'teacherAttendance/update_attendance.html', {'form': form})\n    def post(self, request, pk):",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateAttendanceView",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class UpdateAttendanceView(View):\n    def get(self, request, pk):\n        attendance = TeacherAttendance.objects.get( pk=pk)\n        form = TeacherAttendanceForm(instance=attendance)\n        return render(request, 'teacherAttendance/update_attendance.html', {'form': form})\n    def post(self, request, pk):\n        attendance = TeacherAttendance.objects.get(pk=pk)\n        form = TeacherAttendanceForm(request.POST, instance=attendance)\n        if form.is_valid():\n            form.save()",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteAttendanceView",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class DeleteAttendanceView(View):\n    def get(self, request, pk):\n        attendance =TeacherAttendance.objects.get(pk=pk)\n        attendance.delete()\n        return redirect('attendance-success')\n#-------------------------------View students--------------------------------------------------\nclass ViewStudents(View):\n    def get(self,request,course,batch):\n        students=Student.objects.filter(course=course,batch=batch)\n        return render(request,'teacher/view_studentsTeacher.html',{'students':students})",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewStudents",
+        "kind": 6,
+        "importPath": "teacherapp.views",
+        "description": "teacherapp.views",
+        "peekOfCode": "class ViewStudents(View):\n    def get(self,request,course,batch):\n        students=Student.objects.filter(course=course,batch=batch)\n        return render(request,'teacher/view_studentsTeacher.html',{'students':students})",
+        "detail": "teacherapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'schoolproject.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
